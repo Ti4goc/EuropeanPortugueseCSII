@@ -1,165 +1,178 @@
-﻿using Colossal.IO.AssetDatabase;
+using Colossal;
 using Colossal.Localization;
 using Colossal.Logging;
+
 using Game;
 using Game.Modding;
 using Game.SceneFlow;
-using System;
-using UnityEngine;
-using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using Hash128 = Colossal.Hash128;
+using Game.Settings;
 
-namespace PortugueseLocale
+using Newtonsoft.Json;
+
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
+
+namespace EuropeanPortugueseLocale
 {
     public class Mod : IMod
     {
-        const string LOC_FOLDER = "Data~";
-        const string CURRENT_LOCALIZATION = "pt-PT";
-        public static ILog log = LogManager.GetLogger($"{nameof(PortugueseLocale)}.{nameof(Mod)}").SetShowsErrorsInUI(false);
-        private LocalizationManager _localizationManager;
+        public static ILog log = LogManager.GetLogger($"{nameof(EuropeanPortugueseLocale)}.{nameof(Mod)}").SetShowsErrorsInUI(false);
+
         public void OnLoad(UpdateSystem updateSystem)
         {
-            _localizationManager = GameManager.instance.localizationManager;
-            log.Info(nameof(OnLoad) + " called in phase " + updateSystem.currentPhase + " at " + DateTime.Now);
-            log.Info("Localization version: " + Colossal.Localization.Version.current.fullVersion);
+            log.Info("=== European Portuguese Locale Mod Loading ===");
+
             if (GameManager.instance.modManager.TryGetExecutableAsset(this, out var asset))
-                log.Info($"Current mod asset at {asset.path}");
-            log.Info($"Current active locale {_localizationManager.activeLocaleId}");
-            LogManagerLocales();
-            LogDbLocales();
-            LoadLocAsset(asset);
-            LogManagerLocales();
-            LogDbLocales();
-        }
-        private void LoadLocAsset(ExecutableAsset asset)
-        {
-            var filePaths = OverrideLocFile(asset);
-            var supportedLocales = _localizationManager.GetSupportedLocales();
-            if (supportedLocales.Contains(CURRENT_LOCALIZATION))
             {
-                // Reload in case the last version was replaced
-                _localizationManager.ReloadActiveLocale();
+                TryAddVanillaSource(Path.GetDirectoryName(asset.path));
             }
-            else
+
+            GameManager.instance.localizationManager.LoadAvailableLocales();
+
+            typeof(InterfaceSettings).GetMethod("RegisterInOptionsUI", BindingFlags.Instance | BindingFlags.NonPublic,
+                    null, new Type[] { typeof(string), typeof(bool) }, null)?
+                .Invoke(GameManager.instance.settings.userInterface, new object[] { "Interface", false });
+
+            log.Info("Mod loaded successfully");
+        }
+
+        private void TryAddVanillaSource(string modDir)
+        {
+            try
             {
-                var PortugueseLocAsset = new LocaleAsset();
-                FirstLoad(PortugueseLocAsset, filePaths.NewLocalizationPath);
-                log.Info($"PortugueseLocAsset data - localeId: {PortugueseLocAsset.localeId}, systemLanguage: {PortugueseLocAsset.systemLanguage}, localizedName: {PortugueseLocAsset.localizedName}");
-                MakeReserveDBCopy(filePaths.StreamingAssetPath);
-                var hash = AddFileToDB(filePaths.NewLocalizationPath);
-                PortugueseLocAsset.guid = hash;
-                PortugueseLocAsset.Save();
-                _localizationManager.AddLocale(PortugueseLocAsset);
-                _localizationManager.AddSource(PortugueseLocAsset.localeId, PortugueseLocAsset);
-                _localizationManager.SetActiveLocale(PortugueseLocAsset.localeId);
-                _localizationManager.ReloadActiveLocale();
-                log.Info($"Force set new locale {_localizationManager.activeLocaleId}");
-            }
-        }
-        private void MakeReserveDBCopy(string streamingAssetsPath)
-        {
-            string currentDbPath = streamingAssetsPath + "cache.db";
-            string backupDbPath = streamingAssetsPath + $"cache_backup_{DateTime.Now:yyyy-MM-dd-HH-mm-ss}.db";
-            log.Info($"Created DB backup file: {backupDbPath}");
-            File.Copy(currentDbPath, backupDbPath, true);
-        }
-        private FilePaths OverrideLocFile(ExecutableAsset asset)
-        {
-            string directoryPath = Path.GetDirectoryName(asset.path);
-            string localizedPath = Path.Combine(directoryPath, "Sources\\Locale", CURRENT_LOCALIZATION + ".loc");
-            var defaultLocAsset = AssetDatabase.global.GetAssets<LocaleAsset>().FirstOrDefault(f => f.localeId == _localizationManager.fallbackLocaleId);
-            log.Info($"defaultLocAsset.path {defaultLocAsset.path}, defaultLocAsset.path.IndexOf(\"Data~\") {defaultLocAsset.path.IndexOf(LOC_FOLDER)}");
-            var streamingAssetsPath = defaultLocAsset.path.Substring(0, defaultLocAsset.path.IndexOf(LOC_FOLDER));
-            log.Info($"streamingAssetsPath {streamingAssetsPath}");
-            string newLocalizedPath = streamingAssetsPath + LOC_FOLDER + "/" + CURRENT_LOCALIZATION + ".loc";
-            log.Info($"newLocalizedPath {newLocalizedPath}");
-            File.Copy(localizedPath, newLocalizedPath, true);
-            return new FilePaths()
-            {
-                NewLocalizationPath = newLocalizedPath,
-                StreamingAssetPath = streamingAssetsPath
-            };
-        }
-        public void LogDbLocales()
-        {
-            log.Info("Existing locales in global db:");
-            foreach (LocaleAsset localeAsset in AssetDatabase.global.GetAssets<LocaleAsset>())
-            {
-                log.Info($"{localeAsset.localeId} {localeAsset.state} {localeAsset.transient} {localeAsset.path} {localeAsset.subPath} " +
-                         $"{localeAsset.guid} {localeAsset.identifier} isDirty:{localeAsset.isDirty} isDummy:{localeAsset.isDummy} isValid:{localeAsset.isValid} {localeAsset.systemLanguage}");
-            }
-        }
-        private void LogManagerLocales()
-        {
-            var locs = _localizationManager.GetSupportedLocales();
-            log.Info("Supported locales by localizationManager: " + string.Join(", ", locs));
-        }
-        private void FirstLoad(LocaleAsset localeAsset, string filePath)
-        {
-            using (var input = File.OpenRead(filePath))
-            using (var binaryReader = new BinaryReader(input))
-            {
-                binaryReader.ReadUInt16();
-                Enum.TryParse<SystemLanguage>(binaryReader.ReadString(), out var m_SystemLanguage);
-                string text = binaryReader.ReadString();
-                var localizedName = binaryReader.ReadString();
-                int num = binaryReader.ReadInt32();
-#if DEBUG
-                log.Info($"SystemLang {m_SystemLanguage}");
-                log.Info($"localizedName {localizedName}");
-                log.Info($"num {num}");
-#endif
-                Dictionary<string, string> dictionary = new Dictionary<string, string>(num);
-                for (int i = 0; i < num; i++)
+                var vanillaJson = Path.Combine(modDir, "Localization", "pt-PT", "Vanilla", "pt-PT.json");
+                if (!File.Exists(vanillaJson))
                 {
-                    string key = binaryReader.ReadString();
-                    string value = binaryReader.ReadString();
-                    dictionary[key] = value;
-                    //log.Info($"{key} {value}");
+                    log.Warn($"Vanilla JSON nao encontrado em: {vanillaJson}");
+                    return;
                 }
-                num = binaryReader.ReadInt32();
-                //log.Info($"num {num}");
-                Dictionary<string, int> dictionary2 = new Dictionary<string, int>(num);
-                for (int j = 0; j < num; j++)
+
+                var allEntries = JsonConvert.DeserializeObject<Dictionary<string, string>>(
+                    File.ReadAllText(vanillaJson));
+
+                if (allEntries == null)
                 {
-                    string key2 = binaryReader.ReadString();
-                    int value2 = binaryReader.ReadInt32();
-                    dictionary2[key2] = value2;
-                    //log.Info($"{key2} {value2}");
+                    log.Warn("Falha ao desserializar Vanilla/pt-PT.json");
+                    return;
                 }
-                LocaleData data = new LocaleData(text, dictionary, dictionary2);
-                localeAsset.SetData(data, m_SystemLanguage, localizedName);
-                localeAsset.database = AssetDatabase.game;
+
+                var indexCounts = new Dictionary<string, int>();
+                foreach (var kv in allEntries)
+                {
+                    var colonIdx = kv.Key.LastIndexOf(':');
+                    if (colonIdx > 0 && int.TryParse(kv.Key.Substring(colonIdx + 1), out int idx))
+                    {
+                        var baseKey = kv.Key.Substring(0, colonIdx);
+                        if (!indexCounts.ContainsKey(baseKey) || indexCounts[baseKey] <= idx)
+                            indexCounts[baseKey] = idx + 1;
+                    }
+                }
+
+                GameManager.instance.localizationManager.AddSource("pt-PT",
+                    new VanillaLocaleSource(allEntries, indexCounts));
+
+                log.Info($"Adicionadas {allEntries.Count} entradas, {indexCounts.Count} categorias indexadas");
+
+                // UserInterface.ctor caches the hint list before our mod loads — fix it via reflection.
+                TryRefreshLoadingHints();
             }
-        }
-        public void OnDispose()
-        {
-            log.Info(nameof(OnDispose));
-        }
-        private Hash128 AddFileToDB(string path)
-        {
-            log.Info("Adding file " + path);
-            System.Type type;
-            var assetFactory = DefaultAssetFactory.instance;
-            if (!assetFactory.GetAssetType(Path.GetExtension(path), out type))
+            catch (Exception e)
             {
-                log.Info("Adding file not happens");
-                return new Hash128();
+                log.Warn($"Nao foi possivel adicionar fonte vanilla: {e.Message}");
             }
-            log.Info($"Adding file happened! type: {type.Name}");
-            var hash = AssetDatabase.game.dataSource.AddEntry(AssetDataPath.Create(path, EscapeStrategy.None), type, new Colossal.Hash128());
-            assetFactory.CreateAndRegisterAsset<LocaleAsset>(type, hash, AssetDatabase.game);
-            log.Info($"Saving DB with entry hash: {hash}");
-            AssetDatabase.game.SaveCache();
-            log.Info("Saved");
-            return hash;
         }
-    }
-    internal class FilePaths
-    {
-        public string NewLocalizationPath { get; set; }
-        public string StreamingAssetPath { get; set; }
+
+        private void TryRefreshLoadingHints()
+        {
+            try
+            {
+                // Get UserInterface from GameManager
+                var uiProp = typeof(GameManager).GetProperty("userInterface",
+                    BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+                var ui = uiProp?.GetValue(GameManager.instance);
+                if (ui == null) return;
+
+                // m_HintMessages lives inside OverlayBindings (one level below UserInterface)
+                object hintOwner = null;
+                FieldInfo hintField = null;
+
+                foreach (var topField in ui.GetType().GetFields(BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.Public))
+                {
+                    var topVal = topField.GetValue(ui);
+                    if (topVal == null) continue;
+
+                    foreach (var sub in topVal.GetType().GetFields(BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.Public))
+                    {
+                        if (sub.Name == "m_HintMessages")
+                        {
+                            hintOwner = topVal;
+                            hintField = sub;
+                            break;
+                        }
+                    }
+                    if (hintField != null) break;
+                }
+
+                if (hintField == null) { log.Warn("m_HintMessages nao encontrado"); return; }
+
+                // Get hint IDs from the active localization dictionary
+                var locMgr = GameManager.instance.localizationManager;
+                var dictProp = locMgr.GetType().GetProperty("activeDictionary",
+                    BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+                var dict = dictProp?.GetValue(locMgr);
+                if (dict == null) return;
+
+                var getIdsMethod = dict.GetType().GetMethod("GetIndexedLocaleIDs",
+                    BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+                if (getIdsMethod == null) return;
+
+                var hintIdsList = getIdsMethod.Invoke(dict, new object[] { "Loading.HINTMESSAGE" })
+                    as IList<string>;
+                if (hintIdsList == null) return;
+
+                var hintIdsArray = new string[hintIdsList.Count];
+                hintIdsList.CopyTo(hintIdsArray, 0);
+
+                // m_HintMessages is a ValueBinding<string[]> — call Update(string[])
+                var bindingObj = hintField.GetValue(hintOwner);
+                var updateMethod = bindingObj?.GetType().GetMethod("Update",
+                    BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic,
+                    null, new Type[] { typeof(string[]) }, null);
+
+                updateMethod?.Invoke(bindingObj, new object[] { hintIdsArray });
+                log.Info($"Loading hints actualizados: {hintIdsArray.Length} entradas");
+            }
+            catch (Exception e)
+            {
+                log.Warn($"TryRefreshLoadingHints falhou: {e.Message}");
+            }
+        }
+
+        public void OnDispose() { }
+
+        private class VanillaLocaleSource : IDictionarySource
+        {
+            private readonly Dictionary<string, string> _entries;
+            private readonly Dictionary<string, int> _indexCounts;
+
+            public VanillaLocaleSource(Dictionary<string, string> entries, Dictionary<string, int> indexCounts)
+            {
+                _entries = entries;
+                _indexCounts = indexCounts;
+            }
+
+            public IEnumerable<KeyValuePair<string, string>> ReadEntries(
+                IList<IDictionaryEntryError> errors,
+                Dictionary<string, int> indexCounts)
+            {
+                foreach (var kv in _indexCounts)
+                    indexCounts[kv.Key] = kv.Value;
+                return _entries;
+            }
+
+            public void Unload() { }
+        }
     }
 }
