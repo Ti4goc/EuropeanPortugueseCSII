@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod]": "Bye Bye Homeless",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "Aplicar correção de erro de sem-abrigo",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ApplyHomelessnessFix]": "Este é um indicador de que a correção do erro de sem-abrigo foi aplicada.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "Deportar sem-abrigo",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.DeportHomeless]": "Visto cancelado! Deixa os campistas nos teus parques encontrarem uma forma de sair da cidade agora mesmo.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "Prender sem-abrigo",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.ArrestHomeless]": "Envia a polícia para prender pessoas sem abrigo.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "Remover sem-abrigo presos",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveStuckHomeless]": "Remove instantaneamente os cidadãos sem-abrigo presos nas ruas, excluindo os que estão nos parques.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "Remover todos os sem-abrigo",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.RemoveAllHomeless]": "Remove instantaneamente todos os cidadãos sem-abrigo, incluindo os que estão nos parques.",
+  "Options.OPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "Despejar empresas fantasma",
+  "Options.OPTION_DESCRIPTION[ByeByeHomelessMod.ByeByeHomelessMod.Mod.Setting.EvictExtraCompany]": "[EXPERIMENTAL] Quando selecionado, empresas sem fábricas ou escritórios serão despejadas."
+}

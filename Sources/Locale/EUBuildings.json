@@ -1,0 +1,47 @@
+{
+  "Assets.NAME[EU_titangd0001x01-RathausAugsburg]": "Câmara municipal histórica de Augsburgo",
+  "Assets.DESCRIPTION[EU_titangd0001x01-RathausAugsburg]": "A câmara municipal histórica de Augsburgo, na Alemanha, é considerada um dos mais importantes edifícios renascentistas a norte dos Alpes. Foi construída no início do século XVII e, aquando da sua conclusão, era o edifício mais alto do mundo em número de pisos utilizáveis. Criado por TITAN.",
+
+  "Assets.NAME[EU_titangd0002x01-NeogotischeKirche]": "Igreja neogótica",
+  "Assets.DESCRIPTION[EU_titangd0002x01-NeogotischeKirche]": "Uma igreja de tamanho médio no estilo neogótico. Igrejas deste tipo foram construídas em grande número no final do século XIX, quando as cidades cresceram muito para além das suas fronteiras e a crescente população precisava de mais espaços de culto. Esta igreja foi inspirada em várias construções da Alemanha. O edifício oferece uma quantidade razoável de lazer e atratividade e pode ser colocado várias vezes. Pode ser ampliado com um transepto e uma antiga reitoria que serve agora de pequena escola. O edifício pode ser completamente repintado com o mod Recolor. Criado por TITAN.",
+
+  "Assets.NAME[EU_titangd0002x02-NeogotKirQuerhaus]": "Transepto",
+  "Assets.DESCRIPTION[EU_titangd0002x02-NeogotKirQuerhaus]": "Adiciona um transepto à igreja, melhorando o seu aspeto visual e conferindo alguns bónus adicionais.",
+  "Assets.UPGRADE_NAME[EU_titangd0002x02-NeogotKirQuerhaus]": "Transepto",
+  "Assets.UPGRADE_DESCRIPTION[EU_titangd0002x02-NeogotKirQuerhaus]": "Adiciona um transepto à igreja, melhorando o seu aspeto visual e conferindo alguns bónus adicionais.",
+
+  "Assets.NAME[EU_titangd0002x03-NeogotKirSchule]": "Escola primária da reitoria",
+  "Assets.DESCRIPTION[EU_titangd0002x03-NeogotKirSchule]": "Adiciona um edifício exterior que alberga uma pequena escola primária. Utilizado anteriormente como reitoria com o gabinete do pároco e outras instalações. Pode ser construído várias vezes.",
+  "Assets.UPGRADE_NAME[EU_titangd0002x03-NeogotKirSchule]": "Escola primária da reitoria",
+  "Assets.UPGRADE_DESCRIPTION[EU_titangd0002x03-NeogotKirSchule]": "Adiciona um edifício exterior que alberga uma pequena escola primária. Utilizado anteriormente como reitoria com o gabinete do pároco e outras instalações. Pode ser construído várias vezes.",
+
+  "Assets.NAME[Holy Ghost Church]": "Igreja do Espírito Santo",
+  "Assets.DESCRIPTION[Holy Ghost Church]": "Edifício de uma igreja neogótica com planta longitudinal e uma torre proeminente, concebida como marco visual em zonas urbanas densas.",
+
+  "Assets.NAME[NewspaperOffice1_Prop]": "Adereço da câmara municipal técnica",
+  "Assets.DESCRIPTION[NewspaperOffice1_Prop]": "Pode ser utilizado para ligar edifícios.",
+
+  "Assets.NAME[NewspaperOffice1_Ext03]": "Câmara municipal técnica",
+  "Assets.DESCRIPTION[NewspaperOffice1_Ext03]": "A câmara municipal técnica supervisiona a construção e manutenção de edifícios e infraestruturas municipais, como escolas, estradas, parques, instalações desportivas, linhas de metro ou estações de tratamento de águas residuais. Para tal, conta com uma vasta equipa especializada nas áreas de arquitetura, engenharia, geologia ou direito. Pode ser melhorada com um escritório de engenharia civil adicional, uma autoridade de parques e uma agência de proteção ambiental.",
+
+  "Assets.NAME[NewspaperOffice1_Ext01]": "Agência municipal de proteção ambiental",
+  "Assets.DESCRIPTION[NewspaperOffice1_Ext01]": "Monitoriza as emissões de poluentes, ruído e vibrações das empresas industriais e comerciais, garantindo um nível de poluição mais baixo para as pessoas e para a natureza.",
+  "Assets.UPGRADE_NAME[NewspaperOffice1_Ext01]": "Agência municipal de proteção ambiental",
+  "Assets.UPGRADE_DESCRIPTION[NewspaperOffice1_Ext01]": "Monitoriza as emissões de poluentes, ruído e vibrações das empresas industriais e comerciais, garantindo um nível de poluição mais baixo para as pessoas e para a natureza.",
+
+  "Assets.NAME[NewspaperOffice1_Ext02]": "Autoridade de parques",
+  "Assets.DESCRIPTION[NewspaperOffice1_Ext02]": "Administração central de todos os depósitos de manutenção de parques. Os terraços públicos aumentam o bem-estar local.",
+  "Assets.UPGRADE_NAME[NewspaperOffice1_Ext02]": "Autoridade de parques",
+  "Assets.UPGRADE_DESCRIPTION[NewspaperOffice1_Ext02]": "Administração central de todos os depósitos de manutenção de parques. Os terraços públicos aumentam o bem-estar local.",
+
+  "Assets.NAME[NewspaperOffice1_Ext04]": "Escritório de engenharia civil",
+  "Assets.DESCRIPTION[NewspaperOffice1_Ext04]": "Espaço adicional para o planeamento, construção e manutenção de estradas e praças públicas.",
+  "Assets.UPGRADE_NAME[NewspaperOffice1_Ext04]": "Escritório de engenharia civil",
+  "Assets.UPGRADE_DESCRIPTION[NewspaperOffice1_Ext04]": "Espaço adicional para o planeamento, construção e manutenção de estradas e praças públicas.",
+
+  "Assets.NAME[Waste Collection Center]": "Centro de recolha de resíduos",
+  "Assets.DESCRIPTION[Waste Collection Center]": "Este centro de recolha de resíduos permite separar os resíduos em contentores dedicados (resíduos verdes, resíduos indiferenciados, metal, cartão, etc.). Centraliza a gestão dos camiões de recolha para garantir a cobertura de toda a cidade. Pode ser adicionada uma extensão para aumentar a capacidade e distribuir mais veículos.",
+
+  "Assets.NAME[WasteCollectionCenter_Ext01]": "Depósito de camiões de recolha de resíduos",
+  "Assets.UPGRADE_NAME[WasteCollectionCenter_Ext01]": "Depósito de camiões de recolha de resíduos"
+}

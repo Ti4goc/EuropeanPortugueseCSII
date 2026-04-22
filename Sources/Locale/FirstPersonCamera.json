@@ -1,0 +1,23 @@
+{
+  "FirstPersonCameraContinued.ToastTextEnter": "Pressiona a tecla ESC para sair",
+  "FirstPersonCameraContinued.TooltipFreeCamera": "Clica para entrar no modo de câmara livre em primeira pessoa.",
+  "FirstPersonCameraContinued.TooltipFollowCamera": "Seguir o item selecionado no modo de câmara em primeira pessoa.",
+  "Options.OPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.FOV]": "Campo de visão (FOV)",
+  "Options.OPTION_DESCRIPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.FOV]": "Define o campo de visão (FOV) ao entrar no modo em primeira pessoa",
+  "Options.OPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.MovementSpeed]": "Velocidade de caminhada",
+  "Options.OPTION_DESCRIPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.MovementSpeed]": "Define a velocidade de caminhada no modo livre",
+  "Options.OPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.RunSpeed]": "Velocidade de corrida",
+  "Options.OPTION_DESCRIPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.RunSpeed]": "Define a velocidade de corrida no modo livre, mantém SHIFT pressionado para ativar",
+  "Options.OPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.CimHeight]": "Altura do cim",
+  "Options.OPTION_DESCRIPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.CimHeight]": "Define a altura padrão do cim no modo livre",
+  "Options.OPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.TransitionSpeedFactor]": "Fator de velocidade de transição",
+  "Options.OPTION_DESCRIPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.TransitionSpeedFactor]": "Ajusta a velocidade de transição ao entrar/sair",
+  "Options.OPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.ResetModSettings]": "Repor todas as definições",
+  "Options.OPTION_DESCRIPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.ResetModSettings]": "Repõe as definições do mod para os valores padrão",
+  "Options.WARNING[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.ResetModSettings]": "Tens a certeza de que queres repor todas as definições do mod?",
+  "Options.OPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.MultilineText]": "Atalhos de teclado no modo em primeira pessoa:\nWASD - mover\nSHIFT - caminhar mais rápido\nR/F - aumentar/diminuir a altura da câmara\nSETA CIMA/BAIXO - mover a câmara para frente/trás no modo de seguimento",
+  "Options.SECTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod]": "First Person Camera",
+  "Options.OPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.FreeModeKeybind]": "Entrar no modo livre",
+  "Options.OPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod/EnterFreeModeBinding/binding]": "Entrar no modo livre",
+  "Options.OPTION_DESCRIPTION[FirstPersonCameraContinued.FirstPersonCameraContinued.Mod.Setting.FreeModeKeybind]": "Atalho de teclado para entrar no modo de câmara livre em primeira pessoa"
+}

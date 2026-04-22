@@ -1,0 +1,14 @@
+{
+  "Infoviews.INFOMODE[IBLIVLevelResidential]": "Nível do edifício - Residencial",
+  "Infoviews.INFOMODE[IBLIVLevelCommercial]": "Nível do edifício - Comercial",
+  "Infoviews.INFOMODE[IBLIVLevelIndustrial]": "Nível do edifício - Industrial",
+  "Infoviews.INFOMODE[IBLIVLevelOffice]": "Nível do edifício - Escritórios",
+
+  "Infoviews.INFOMODE_TOOLTIP[IBLIVLevelResidential]": "O dinheiro que sobra depois de pagar a **renda** e a **manutenção** é usado pelos ocupantes para **subir o nível** do edifício. Se a **riqueza** dos ocupantes diminuir, o edifício pode acabar **abandonado**.\n\nEdifícios residenciais de nível mais alto têm custos de **manutenção** mais elevados, mas consomem menos **água** e **eletricidade**, e produzem menos **lixo**.\nA **riqueza residencial** depende da situação de **emprego** dos residentes e do seu **nível profissional**.",
+
+  "Infoviews.INFOMODE_TOOLTIP[IBLIVLevelCommercial]": "O dinheiro que sobra depois de pagar a **renda** e a **manutenção** é usado pelos ocupantes para **subir o nível** do edifício. Se a **riqueza** dos ocupantes diminuir, o edifício pode acabar **abandonado**.\n\nEdifícios comerciais de nível mais alto têm melhor **eficiência** e consomem menos eletricidade por cada **recurso** produzido e vendido, tornando os produtos mais baratos e atraindo mais clientes do que edifícios de nível inferior.\nA **riqueza comercial** depende dos **lucros** obtidos com a venda de bens e serviços aos cidadãos.",
+
+  "Infoviews.INFOMODE_TOOLTIP[IBLIVLevelIndustrial]": "O dinheiro que sobra depois de pagar a **renda** e a **manutenção** é usado pelos ocupantes para **subir o nível** do edifício. Se a **riqueza** dos ocupantes diminuir, o edifício pode acabar **abandonado**.\n\nEdifícios industriais de nível mais alto têm melhor **eficiência** e consomem menos eletricidade por cada **recurso** produzido e vendido.\nA **riqueza industrial** depende dos **lucros** obtidos com a venda de produtos aos comerciantes.",
+
+  "Infoviews.INFOMODE_TOOLTIP[IBLIVLevelOffice]": "O dinheiro que sobra depois de pagar a **renda** e a **manutenção** é usado pelos ocupantes para **subir o nível** do edifício. Se a **riqueza** dos ocupantes diminuir, o edifício pode acabar **abandonado**.\n\nEscritórios de nível mais alto têm melhor **eficiência** e consomem menos **eletricidade** por cada **recurso** produzido e vendido, o que torna os serviços mais baratos e atrai mais clientes do que escritórios de nível inferior.\nA **riqueza dos escritórios** depende dos **lucros** obtidos com a venda de bens imateriais e serviços a comerciantes e cidadãos."
+}

@@ -1,0 +1,12 @@
+{
+  "Assets.NAME[CarProp]": "CarProp",
+  "Assets.DESCRIPTION[CarProp]": "Um pequeno adereço de carro sem qualquer funcionalidade",
+  "Assets.NAME[Bus04]": "Autocarro de alta capacidade",
+  "Assets.DESCRIPTION[Bus04]": "Um autocarro espaçoso e eficiente, com capacidade para até 120 passageiros, ideal para transportar grandes grupos na cidade.",
+  "Assets.NAME[Bus05]": "Autocarro elétrico de alta capacidade",
+  "Assets.DESCRIPTION[Bus05]": "Autocarro moderno e amigo do ambiente, movido a energia elétrica, com capacidade para até 120 passageiros.",
+  "Assets.NAME[Taxi03]": "Táxi SUV",
+  "Assets.DESCRIPTION[Taxi03]": "Táxi espaçoso do tipo SUV, com capacidade para até 6 passageiros.",
+  "Assets.NAME[Taxi04]": "Táxi elétrico SUV",
+  "Assets.DESCRIPTION[Taxi04]": "Táxi sustentável do tipo SUV, movido a eletricidade, com capacidade para até 6 passageiros."
+}

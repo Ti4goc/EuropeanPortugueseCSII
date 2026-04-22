@@ -1,0 +1,10 @@
+{
+  "Assets.NAME[CentralStation]": "Estação Central",
+  "Assets.DESCRIPTION[CentralStation]": "Uma grande estação ferroviária central com plataformas para vários comboios.",
+
+  "Assets.UPGRADE_NAME[CentralStation Extra Lounge]": "Extensão de Sala de Espera",
+  "Assets.UPGRADE_DESCRIPTION[CentralStation Extra Lounge]": "Uma sala de espera adicional que melhora o conforto dos passageiros.",
+
+  "Assets.UPGRADE_NAME[CentralStation Extra Platforms]": "Plataformas Adicionais",
+  "Assets.UPGRADE_DESCRIPTION[CentralStation Extra Platforms]": "Plataformas adicionais que aumentam a capacidade da estação para mais comboios."
+}

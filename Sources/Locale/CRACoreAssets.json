@@ -1,0 +1,16 @@
+{
+	"Assets.NAME[CRA LaneGroups Car]": "Faixas CRA",
+	"Assets.DESCRIPTION[CRA LaneGroups Car]": "Faixas de circulação de carros CRA.",
+	"Assets.NAME[CRA LaneGroups Car - 2-way]": "Faixas CRA de 2 sentidos",
+	"Assets.DESCRIPTION[CRA LaneGroups Car - 2-way]": "Faixas de circulação de carros CRA com dois sentidos de tráfego.",
+	"Assets.NAME[CRA LaneGroups Medians]": "Separadores CRA",
+	"Assets.DESCRIPTION[CRA LaneGroups Medians]": "Separadores centrais entre faixas de tráfego CRA.",
+	"Assets.NAME[CRA LaneGroups Sidewalks]": "Passeios CRA",
+	"Assets.DESCRIPTION[CRA LaneGroups Sidewalks]": "Passeios pedonais CRA ao longo das vias.",
+	"Assets.NAME[CRA LaneGroups Parking]": "Estacionamento CRA",
+	"Assets.DESCRIPTION[CRA LaneGroups Parking]": "Áreas de estacionamento CRA ao lado das vias.",
+	"Assets.NAME[CRA LaneGroups Empty Surfaces]": "Superfícies CRA",
+	"Assets.DESCRIPTION[CRA LaneGroups Empty Surfaces]": "Superfícies vazias CRA para desenvolvimento ou outros usos.",
+	"Assets.NAME[CRA LaneGroups Empty]": "CRA Vazio",
+	"Assets.DESCRIPTION[CRA LaneGroups Empty]": "Áreas completamente vazias CRA, sem funcionalidades definidas."
+}

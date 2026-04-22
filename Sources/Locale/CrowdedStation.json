@@ -1,0 +1,22 @@
+{
+  "CrowdedStation.Title": "Crowded Station",
+  "CrowdedStation.Description": "Mostrar informações sobre as paragens sobrelotadas",
+  "Options.SECTION[CrowdedStation.CrowdedStation.Mod]": "Crowded Station",
+  "Options.GROUP[CrowdedStation.CrowdedStation.Mod.General]": "Geral",
+  "Options.OPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.ResetMainPanelPosition]": "Repor posição do painel",
+  "Options.OPTION_DESCRIPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.ResetMainPanelPosition]": "Repõe a posição do painel caso esteja fora do ecrã.",
+  "Options.GROUP[CrowdedStation.CrowdedStation.Mod.Setting]": "Definições",
+  "Options.GROUP[CrowdedStation.CrowdedStation.Mod.About]": "Acerca de",
+  "Options.OPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.ModVersion]": "Versão",
+  "Options.OPTION_DESCRIPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.ModVersion]": "Versão atual. Suporta a versão 1.2.0f1",
+  "Options.OPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.iShowListTop]": "Número total na lista",
+  "Options.OPTION_DESCRIPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.iShowListTop]": "Configura o número total de paragens sobrelotadas a mostrar.",
+  "Options.OPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.bShowLineOnOpen]": "Mostrar informações da rota",
+  "Options.OPTION_DESCRIPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.bShowLineOnOpen]": "Mostrar informações da rota quando o painel é aberto.",
+  "Options.OPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.uiShowScale]": "Tamanho do painel",
+  "Options.OPTION_DESCRIPTION[CrowdedStation.CrowdedStation.Mod.ModSettings.uiShowScale]": "Configura o tamanho do painel. Normal é o padrão.\\n Se 'maior' for selecionado, o TOP5 é recomendado.",
+  "CrowdedStation.RowLabelStationCounts": "Número total de paragens",
+  "CrowdedStation.ToolTipStationCounts": "Número total de paragens",
+  "CrowdedStation.ColumnLabelStationName": "Paragens",
+  "CrowdedStation.ColumnLabelCrowdeds": "Passageiros à espera"
+}

@@ -1,0 +1,11 @@
+{
+  "Assets.NAME[EU_TrainCargoEngine_30Car]": "Comboio de mercadorias europeu com 30 vagões",
+  "Assets.DESCRIPTION[EU_TrainCargoEngine_30Car]": "Comboio de mercadorias europeu com uma única locomotiva e 30 vagões, ideal para o transporte de cargas mais pesadas.",
+  "Assets.NAME[HST 14 Car]": "Comboio de alta velocidade TGV de 14 carruagens",
+  "Assets.DESCRIPTION[HST 14 Car]": "Comboio de alta velocidade longo, composto por 14 carruagens.",
+  "Assets.NAME[HST 18 Car]": "Comboio de alta velocidade TGV de 18 carruagens",
+  "Assets.NAME[NA_Train40]": "Comboio de mercadorias norte-americano com 40 vagões",
+  "Assets.DESCRIPTION[NA_Train40]": "Comboio de mercadorias norte-americano de 40 vagões e duas locomotivas, ideal para transportar cargas volumosas.",
+  "Assets.NAME[NA_TrainCargo52]": "Comboio de mercadorias norte-americano com 52 vagões",
+  "Assets.DESCRIPTION[NA_TrainCargo52]": "Comboio de mercadorias norte-americano de 52 vagões e duas locomotivas, ideal para transportar grandes quantidades de mercadorias."
+}

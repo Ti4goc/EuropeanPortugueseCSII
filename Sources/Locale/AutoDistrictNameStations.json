@@ -1,0 +1,66 @@
+{
+  "Options.SECTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod]": "Auto District Name Stations",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.mainSection]": "Auto District Name Stations - Definições",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.transportSection]": "Definições de estações de transporte",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.deathscareSection]": "Definições de serviços funerários",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.hospitalSection]": "Definições de hospitais",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.parkSection]": "Definições de parques",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.policeSection]": "Definições de esquadras de polícia",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.schoolSection]": "Definições de escolas",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.shelterSection]": "Definições de abrigos",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.firestationSection]": "Definições de quartéis de bombeiros",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.garbageSection]": "Definições de instalações de gestão de resíduos",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.postSection]": "Definições de serviços postais",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.parkingSection]": "Definições de instalações de estacionamento",
+  "Options.GROUP[AutoDistrictNameStations.AutoDistrictNameStations.Mod.applyToAll]": "Ações do mod",
+
+  "Options.OPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.stationFormat]": "Formato do nome dos edifícios",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.stationFormat]": "Também podes alterar o formato no ficheiro de configuração %AppData%\\..\\LocalLow\\Colossal Order\\Cities Skylines II\\AutoDistrictNameStations.coc, o {bairro} é sempre necessário",
+
+  "Options.OPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.allowUnique]": "Permitir edifícios emblemáticos",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.allowUnique]": "Opção para permitir mudar o nome de edifícios emblemáticos com base no bairro ou na rua",
+
+  "Options.OPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.allowStreetnaming]": "Permitir nomeação de ruas sem bairro",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.allowStreetnaming]": "Opção para permitir mudar o nome de edifícios com base no nome da rua quando não existe bairro",
+
+  "Options.OPTION[Enable]": "Ativar",
+  "Options.OPTION[ApplyLabel]": "Bairro ou rua",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changeStations]": "Ativar alteração do nome das estações",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.stationsApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changeDeathsCare]": "Ativar alteração do nome das instalações de serviços funerários",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.deathsCareApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changeHospital]": "Ativar alteração do nome dos hospitais",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.hospitalApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changePark]": "Ativar alteração do nome dos parques",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.parkApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changePolice]": "Ativar alteração do nome das esquadras de polícia",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.policeApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changeSchool]": "Ativar alteração do nome das escolas",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.schoolApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changeShelter]": "Ativar alteração do nome dos abrigos",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.shelterApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changeFirestation]": "Ativar alteração do nome dos quartéis de bombeiros",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.firestationApplayTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changeGarbage]": "Ativar alteração do nome das instalações de gestão de resíduos",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.garbageApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changePost]": "Ativar alteração do nome das instalações postais",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.postApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.changeParking]": "Ativar alteração do nome das instalações de estacionamento",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.parkingApplyTo]": "Seleciona o comportamento da atribuição de nomes",
+
+  "Options.OPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.dummyBool]": "Aplicar etiquetas a edifícios anteriores",
+  "Options.OPTION_DESCRIPTION[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.dummyBool]": "Este processo irá mudar o nome de todos os edifícios existentes.",
+
+  "Options.WARNING[AutoDistrictNameStations.AutoDistrictNameStations.Mod.ModOptions.dummyBool]": "AVISO: Esta ação vai desencadear o processo de alteração de nomes das estações e edifícios já colocados. Se já usaste este mod anteriormente, pode haver um problema com o nome de algumas estações. Antes de continuar, é recomendado fazeres uma cópia de segurança da tua cidade, e clicar no botão após reiniciar o jogo. \n\n\nAtenção, este botão deve ser acionado no jogo e, possivelmente, vais precisar de reiniciar o jogo para o usar novamente. Em cidades grandes, pode demorar alguns segundos para processar todos os edifícios."
+}

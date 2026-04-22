@@ -1,0 +1,40 @@
+{
+  "Assets.NAME[GenericCitaroC201]": "Autocarro Genérico MB Citaro C2 (110)",
+  "Assets.NAME[GenericCitaroC201_Prop]": "Adereço — Autocarro Genérico Mercedes-Benz Citaro C2",
+  "Assets.DESCRIPTION[GenericCitaroC201_Prop]": "Um adereço do autocarro Mercedes-Benz O 530 Citaro C2.\n\n— Do Conjunto de Autocarros Mercedes Genérico, por UnMaestro.",
+
+  "Assets.NAME[TheSapphire]": "The Sapphire",
+  "Assets.DESCRIPTION[TheSapphire]": "Estilo arquitetónico: minimalismo.",
+
+  "Assets.NAME[TheContinent1]": "The Continent #1",
+  "Assets.DESCRIPTION[TheContinent1]": "Estilo arquitetónico: minimalismo.",
+
+  "Assets.NAME[TheContinent2]": "The Continent #2",
+  "Assets.DESCRIPTION[TheContinent2]": "Estilo arquitetónico: minimalismo.",
+
+  "Assets.NAME[TheBotanicGarden]": "Jardim Botânico",
+  "Assets.DESCRIPTION[TheBotanicGarden]": "Estilo arquitetónico: minimalismo.",
+
+  "Assets.NAME[RenaissanceHotel]": "Hotel Renaissance",
+  "Assets.DESCRIPTION[RenaissanceHotel]": "Estilo arquitetónico: neoclassicismo.",
+
+  "Assets.NAME[Wohnpark Alterlaa]": "Wohnpark Alterlaa",
+  "Assets.DESCRIPTION[Wohnpark Alterlaa]": "Bloco de habitação brutalista.",
+
+  "Assets.NAME[Tammela Stadium Main Building]": "Estádio Tammela",
+  "Assets.DESCRIPTION[Tammela Stadium Main Building]": "Concluído na primavera de 2024, o Estádio Tammela em Tampere é a primeira arena de futebol híbrida da Finlândia, integrada de forma única num bloco urbano denso de 50 000 m² rodeado por edifícios residenciais e serviços de comércio. Projetado pelo ateliê JKMM Architects em colaboração com a Câmara de Tampere e a Pohjola Rakennus, o recinto de categoria UEFA 4 serve de casa ao Ilves Tampere, com 8 000 lugares com visibilidade total para desporto e capacidade para 15 000 espetadores em grandes eventos. Ao conjugar espaços públicos, salões VIP e estacionamento subterrâneo sob o campo e a habitação, o projeto concilia com sucesso o atletismo internacional de alto nível com a vida quotidiana da cidade.",
+
+  "Assets.NAME[Tammela Stadium Apartment Extsion]": "Extensão Residencial do Estádio Tammela",
+  "Assets.DESCRIPTION[Tammela Stadium Apartment Extsion]": "A componente residencial do projeto do Estádio Tammela consiste em cinco a seis blocos de apartamentos de alta qualidade que ladeiam os lados este e oeste do campo, funcionando efetivamente como as paredes exteriores do estádio. Revestidos com tijolo claro, varandas com apontamentos amarelos vibrantes e terraços comuns no telhado, estes edifícios foram concebidos para integrar a imponente infraestrutura desportiva na escala do bairro. Um ponto de destaque único para os moradores é o facto de as torres centrais mais altas terem janelas e varandas com vistas diretas e privadas para o campo, permitindo a alguns vizinhos assistir aos jogos do Ilves Tampere a partir das suas próprias salas.",
+  "Assets.UPGRADE_NAME[Tammela Stadium Apartment Extsion]": "Extensão Residencial do Estádio Tammela",
+  "Assets.UPGRADE_DESCRIPTION[Tammela Stadium Apartment Extsion]": "A componente residencial do projeto do Estádio Tammela consiste em cinco a seis blocos de apartamentos de alta qualidade que ladeiam os lados este e oeste do campo, funcionando efetivamente como as paredes exteriores do estádio. Revestidos com tijolo claro, varandas com apontamentos amarelos vibrantes e terraços comuns no telhado, estes edifícios foram concebidos para integrar a imponente infraestrutura desportiva na escala do bairro. Um ponto de destaque único para os moradores é o facto de as torres centrais mais altas terem janelas e varandas com vistas diretas e privadas para o campo, permitindo a alguns vizinhos assistir aos jogos do Ilves Tampere a partir das suas próprias salas.",
+
+  "Assets.NAME[CedarResidence]": "Residência Cedar",
+  "Assets.DESCRIPTION[CedarResidence]": "Um conjunto residencial calmo e elegante inserido num ambiente verde, projetado para se integrar naturalmente em bairros suburbanos ou semi-urbanos.",
+
+  "Assets.NAME[CedarResidence Bis]": "Residência Cedar Bis",
+  "Assets.DESCRIPTION[CedarResidence Bis]": "Um edifício de apartamentos moderno com 42 habitações distribuídas por vários pisos. O design contemporâneo e clean integra-se naturalmente em zonas urbanas ou residenciais.",
+
+  "Assets.NAME[EU_RoyalWharfResidentialMixed]": "Apartamentos Royal Wharf",
+  "Assets.DESCRIPTION[EU_RoyalWharfResidentialMixed]": "Um edifício moderno de uso misto com um parque."
+}

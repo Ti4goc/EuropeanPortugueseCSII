@@ -1,0 +1,22 @@
+{
+  "Assets.UPGRADE_NAME[MSS_AddSubwayTracks_20]": "Adicionar trilhos de metro (-20m)",
+  "Assets.UPGRADE_DESCRIPTION[MSS_AddSubwayTracks_20]": "A melhoria de instalação de trilhos para a Estação de Metro Modular oferece diferentes opções de altura.",
+
+  "Assets.UPGRADE_NAME[MSS_AddSubwayTracks_30]": "Adicionar trilhos de metro (-30m)",
+  "Assets.UPGRADE_DESCRIPTION[MSS_AddSubwayTracks_30]": "A melhoria de instalação de trilhos para a Estação de Metro Modular oferece diferentes opções de altura.",
+
+  "Assets.UPGRADE_NAME[MSS_AddSubwayTracks_40]": "Adicionar trilhos de metro (-40m)",
+  "Assets.UPGRADE_DESCRIPTION[MSS_AddSubwayTracks_40]": "A melhoria de instalação de trilhos para a Estação de Metro Modular oferece diferentes opções de altura.",
+
+  "Assets.UPGRADE_NAME[MSS_AddSubwayTracks_50]": "Adicionar trilhos de metro (-50m)",
+  "Assets.UPGRADE_DESCRIPTION[MSS_AddSubwayTracks_50]": "A melhoria de instalação de trilhos para a Estação de Metro Modular oferece diferentes opções de altura.",
+
+  "Assets.UPGRADE_NAME[MSS_ConcreteUpgrade]": "Melhoria de betão",
+  "Assets.UPGRADE_DESCRIPTION[MSS_ConcreteUpgrade]": "Colocar uma camada de pavimento em betão.",
+
+  "Assets.NAME[MSS_ModularSubwayStation]": "Estação de Metro Modular",
+  "Assets.DESCRIPTION[MSS_ModularSubwayStation]": "A Estação de Metro Modular pode ser montada livremente utilizando a melhoria Adicionar Trilhos de Metro em combinação com Entradas de Metro, permitindo colocações sobrepostas ou entrelaçadas.",
+
+  "Assets.NAME[MSS_SubwayEntrance]": "Entrada de Metro",
+  "Assets.DESCRIPTION[MSS_SubwayEntrance]": "As Entradas de Metro fornecem pontos de entrada e saída para a Estação de Metro Modular e podem também funcionar como passagens pedonais subterrâneas."
+}

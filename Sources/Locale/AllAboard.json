@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[AllAboard.AllAboard.AllAboard]": "All Aboard!",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.TrainMaxDwellDelaySlider]": "Atraso máximo de paragem dos comboios (minutos no jogo)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.TrainMaxDwellDelaySlider]": "Tempo máximo permitido (em minutos no jogo) para um comboio (metro, elétrico) permanecer parado além do horário de partida previsto.",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.BusMaxDwellDelaySlider]": "Atraso máximo de paragem dos autocarros (minutos no jogo)",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.BusMaxDwellDelaySlider]": "Tempo máximo permitido (em minutos no jogo) para um autocarro permanecer parado além do horário de partida previsto.",
+  "Options.OPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.ApplyButton]": "Aplicar",
+  "Options.OPTION_DESCRIPTION[AllAboard.AllAboard.AllAboard.AllAboardSettings.ApplyButton]": "Aplicar definições"
+}

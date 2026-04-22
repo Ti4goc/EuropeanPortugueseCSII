@@ -1,0 +1,12 @@
+{
+  "Options.SECTION[BetterTransitView.BetterTransitView.Mod]": "Better Transit View",
+  "Options.TAB[BetterTransitView.BetterTransitView.Mod.Main]": "Principal",
+  "Options.GROUP[BetterTransitView.BetterTransitView.Mod.KeyBinding]": "Controlos",
+  "Options.OPTION[BetterTransitView.BetterTransitView.Mod.ModSettings.ToggleToolBinding]": "Ativar Better Transit View",
+  "Options.OPTION_DESCRIPTION[BetterTransitView.BetterTransitView.Mod.ModSettings.ToggleToolBinding]": "Prime esta tecla para ativar o Better Transit View.",
+  "Options.OPTION[BetterTransitView.BetterTransitView.Mod/BetterTransitView_Toggle/binding]": "Tecla de ativação",
+  "Options.INPUT_MAP[BetterTransitView.BetterTransitView.Mod]": "Better Transit View",
+  "Infoviews.NAME[BetterTransitViewCustomView]": "Better Transit View",
+  "Infoviews.DESC[BetterTransitViewCustomView]": "Vista personalizada de transportes.",
+  "Infoviews.INFOMODE[BetterTransitViewStations]": "Mostrar estações"
+}

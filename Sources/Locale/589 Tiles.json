@@ -1,0 +1,22 @@
+{
+  "Options.SECTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod]": "529 Tiles",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UnlockNone]": "Sem áreas extra",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UnlockNone]": "Mantém o comportamento base do jogo e não adiciona desbloqueios de áreas extra.",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UnlockAll]": "Desbloquear todas as áreas",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UnlockAll]": "Desbloqueia automaticamente e de imediato todas as áreas do mapa ao começares uma nova cidade (ou carregares uma existente).",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ExtraTilesAtStart]": "Dar áreas extra no início",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ExtraTilesAtStart]": "Adiciona áreas adicionais logo disponíveis quando começas uma nova cidade (os marcos continuarão a dar as suas áreas normais por cima disso).",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ExtraTilesAtEnd]": "Dar áreas extra no marco final",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ExtraTilesAtEnd]": "Adiciona as áreas adicionais ao último marco do jogo.",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.AssignToMilestones]": "Distribuir áreas extra pelos marcos",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.AssignToMilestones]": "Distribui as áreas adicionais por todos os marcos normais do jogo, em proporção à quantidade habitual de cada um.",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.NoStartingTiles]": "Escolher áreas iniciais manualmente",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.NoStartingTiles]": "Se ativares isto, nenhuma área inicial será desbloqueada automaticamente ao começares uma nova cidade. Em vez disso, poderás escolher as tuas próprias áreas iniciais (as nove primeiras serão gratuitas).",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UpkeepMultiplier]": "Multiplicador de manutenção das áreas",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.UpkeepMultiplier]": "O custo de manutenção padrão das áreas será multiplicado por esta percentagem. Define como zero para desativar completamente a manutenção.",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ResetModSettings]": "Repor definições",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ResetModSettings]": "Repõe todas as definições do mod 529 Tiles para os valores padrão.",
+  "Options.WARNING[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.ResetModSettings]": "Repor todas as definições do 529 Tiles para o padrão? Esta ação não pode ser anulada.",
+  "Options.OPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.RelockAllTiles]": "Voltar a bloquear todas as áreas",
+  "Options.OPTION_DESCRIPTION[FiveTwentyNineTiles.FiveTwentyNineTiles.Mod.ModSettings.RelockAllTiles]": "Volta a bloquear todas as áreas desbloqueadas; podes voltar a comprá-las imediatamente até ao limite que já tenhas obtido."
+}

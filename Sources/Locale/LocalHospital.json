@@ -1,0 +1,8 @@
+{
+  "Assets.NAME[medclbyMrSandcrfat test]": "Hospital local",
+  "Assets.DESCRIPTION[medclbyMrSandcrfat test]": "Hospital pequeno para 150 pacientes",
+  "Assets.UPGRADE_NAME[scext1]": "Garagem com estacionamento",
+  "Assets.UPGRADE_DESCRIPTION[scext1]": "Garagem adicional para 5 ambulâncias",
+  "Assets.UPGRADE_NAME[scext2]": "Ala de extensão com parque",
+  "Assets.UPGRADE_DESCRIPTION[scext2]": "Ala de extensão com parque para 150 pacientes"
+}

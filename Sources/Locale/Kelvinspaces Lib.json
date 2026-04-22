@@ -1,0 +1,16 @@
+{
+  "Options.SECTION[KSLib.KSLib.Mod]": "Kelvinspaces Lib",
+  "Options.TAB[KSLib.KSLib.Mod.Main]": "Principal",
+  "Options.GROUP[KSLib.KSLib.Mod.Authorization]": "Autorização",
+  "Options.GROUP[KSLib.KSLib.Mod.Settings]": "Tema",
+  "Options.GROUP[KSLib.KSLib.Mod.Information]": "Informação",
+  "Options.OPTION[KSLib.KSLib.Mod.Setting.Button]": "Iniciar sessão",
+  "Options.OPTION_DESCRIPTION[KSLib.KSLib.Mod.Setting.Button]": "",
+  "Options.OPTION[KSLib.KSLib.Mod.Setting.ModDescriptions]": "Atualmente, o mod está em fase de testes e será lançado quando a CO remover o BETA do editor.",
+  "Options.KSLib.KSLib.Mod.THEMEENUM[ThemeVanilla]": "Padrão",
+  "Options.KSLib.KSLib.Mod.THEMEENUM[ThemeKelvin]": "Kelvinspaces",
+  "Options.OPTION[KSLib.KSLib.Mod.Setting.EnumThemeUi]": "Tema da interface utilizador",
+  "Options.OPTION_DESCRIPTION[KSLib.KSLib.Mod.Setting.EnumThemeUi]": "",
+  "Options.OPTION[KSLib.KSLib.Mod.Setting.EnumThemeAssets]": "Tema dos recursos",
+  "Options.OPTION_DESCRIPTION[KSLib.KSLib.Mod.Setting.EnumThemeAssets]": ""
+}

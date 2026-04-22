@@ -1,0 +1,21 @@
+{
+  "Options.SECTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod]": "Auto Vehicle Renamer",
+  "Options.TAB[AutoVehicleRenamer.AutoVehicleRenamer.Mod.Main]": "Principal",
+  "Options.GROUP[AutoVehicleRenamer.AutoVehicleRenamer.Mod.General]": "Geral",
+  "Options.GROUP[AutoVehicleRenamer.AutoVehicleRenamer.Mod.Actions]": "Ações",
+  "Options.OPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.enableDefault]": "Mudar nome de veículos de edifícios com nomes padrão?",
+  "Options.OPTION_DESCRIPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.enableDefault]": "Por padrão, edifícios com nomes padrão como \"Parque de Autocarros\" ou \"Depósito Ferroviário\" não terão os seus veículos com o nome alterado. Ativa esta opção para permitir mudar o nome dos veículos de edifícios com nomes padrão.",
+  "Options.OPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.separator]": "Escolhe um separador",
+  "Options.OPTION_DESCRIPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.separator]": "Escreve os caracteres que queres usar como separador entre o nome do veículo e o nome de origem. Usar emojis ou outros caracteres não suportados pode causar falhas no jogo. Para segurança, guarda primeiro, muda o nome de um veículo manualmente, deixa a simulação correr durante alguns segundos, guarda novamente num ficheiro separado, sai do jogo, reinicia o jogo, carrega o ficheiro guardado, despausa a simulação, e se isto não causar falhas, está tudo pronto.",
+  "Options.OPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.textFormat]": "Escolhe um formato de texto",
+  "Options.OPTION_DESCRIPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.textFormat]": "Seleciona um dos formatos de texto para usar no script de mudança de nomes.",
+  "Options.AutoVehicleRenamer.AutoVehicleRenamer.Mod.TEXTFORMATENUM[Value1]": "{vehicle} {separator} {building}",
+  "Options.AutoVehicleRenamer.AutoVehicleRenamer.Mod.TEXTFORMATENUM[Value2]": "{building} {separator} {vehicle}",
+  "Options.OPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.restoreDefaults]": "Restaurar predefinições",
+  "Options.OPTION_DESCRIPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.restoreDefaults]": "Desativa a mudança de nomes de veículos de edifícios com nomes padrão, define o separador como \"•\" e define o formato como \"{vehicle} {separator} {building}\".",
+  "Options.WARNING[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.restoreDefaults]": "Confirmas restaurar as predefinições para o 'Auto Vehicle Renamer'?",
+  "Options.OPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.enableVerbose]": "Ativar registo detalhado",
+  "Options.OPTION_DESCRIPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.enableVerbose]": "Ativa apenas para resolução de problemas. Não é recomendado para jogar.",
+  "Options.OPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.openLogFile]": "Abrir ficheiro de registo",
+  "Options.OPTION_DESCRIPTION[AutoVehicleRenamer.AutoVehicleRenamer.Mod.AutoVehicleRenamerSetting.openLogFile]": "Abre o ficheiro de registo no visualizador de texto/registo padrão do teu dispositivo. Não recomendado durante streaming na cloud."
+}

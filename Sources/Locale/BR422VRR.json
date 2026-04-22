@@ -1,0 +1,19 @@
+{
+  "Assets.NAME[BR422VRREngineCar01]": "S-Bahn VRR Verde (1×4 Carruagens – 600 lugares)",
+  "Assets.NAME[BR422VRREngineCar02]": "S-Bahn VRR Verde (2×4 Carruagens – 1200 lugares)",
+  "Assets.NAME[BR422VRREngineCar03]": "S-Bahn VRR Vermelho (1×4 Carruagens – 600 lugares)",
+  "Assets.NAME[BR422VRREngineCar04]": "S-Bahn VRR Vermelho (2×4 Carruagens – 1200 lugares)",
+  "Assets.NAME[BR422VRREngineCar05]": "S-Bahn VRR Misto (2×4 Carruagens – 1200 lugares)",
+
+  "Assets.NAME[BR422VRR_Prop01]": "Prop Comboio BR422 VRR Verde",
+  "Assets.DESCRIPTION[BR422VRR_Prop01]": "O BR 422 da DB da S-Bahn Reno-Ruhr, fabricado pela Bombardier e Alstom, é uma unidade múltipla elétrica operada pela Deutsche Bahn e amplamente utilizada na densa rede de S-Bahn da região do Ruhr, na Alemanha. Com a sua pintura da S-Bahn Reno-Ruhr da VRR, o comboio tornou-se uma presença familiar nas ligações suburbanas entre cidades como Dortmund, Essen, Duisburg e Düsseldorf.\n\nEste veículo tem uma velocidade máxima de 140 km/h e uma capacidade máxima de 600 passageiros por comboio.",
+
+  "Assets.NAME[BR422VRR_Prop02]": "Prop Comboio BR422 VRR Vermelho",
+  "Assets.DESCRIPTION[BR422VRR_Prop02]": "O BR 422 da DB da S-Bahn Reno-Ruhr, fabricado pela Bombardier e Alstom, é uma unidade múltipla elétrica operada pela Deutsche Bahn e amplamente utilizada na densa rede de S-Bahn da região do Ruhr, na Alemanha. Com a sua pintura da S-Bahn Reno-Ruhr da VRR, o comboio tornou-se uma presença familiar nas ligações suburbanas entre cidades como Dortmund, Essen, Duisburg e Düsseldorf.\n\nEste veículo tem uma velocidade máxima de 140 km/h e uma capacidade máxima de 600 passageiros por comboio.",
+
+  "Assets.NAME[BR422VRRFakeEngineMiddleCar01]": "Carruagem Motriz Intermédia BR422 (Simulada)",
+  "Assets.DESCRIPTION[BR422VRRFakeEngineMiddleCar01]": "Esta carruagem motriz imita uma carruagem de passageiros. É utilizada na composição mista do comboio.",
+
+  "Assets.NAME[BR422VRRFakeEngineMiddleCar02]": "Carruagem Motriz Intermédia BR422 (Simulada) 2",
+  "Assets.DESCRIPTION[BR422VRRFakeEngineMiddleCar02]": "Esta carruagem motriz imita uma carruagem de passageiros. É utilizada na composição mista do comboio."
+}

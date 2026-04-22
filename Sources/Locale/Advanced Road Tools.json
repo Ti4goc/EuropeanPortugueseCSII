@@ -1,0 +1,13 @@
+{
+  "Options.SECTION[AdvancedRoadTools.AdvancedRoadTools.Core.AdvancedRoadToolsMod]": "Advanced Road Tools",
+  "Options.TAB[AdvancedRoadTools.AdvancedRoadTools.Core.AdvancedRoadToolsMod.Main]": "Principal",
+  "Options.GROUP[AdvancedRoadTools.AdvancedRoadTools.Core.AdvancedRoadToolsMod.Zone Controller Tool]": "Opções da Ferramenta de Controlo de Zonas",
+  "Options.OPTION[AdvancedRoadTools.AdvancedRoadTools.Core.AdvancedRoadToolsMod.Setting.RemoveZonedCells]": "Impedir a remoção de células zonadas",
+  "Options.OPTION_DESCRIPTION[AdvancedRoadTools.AdvancedRoadTools.Core.AdvancedRoadToolsMod.Setting.RemoveZonedCells]": "Impede que as células zonadas sejam substituídas durante a pré-visualização e fase de definição da Ferramenta de Controlo de Zonas.\nAtiva esta opção se estiveres a ter problemas com a perda da tua configuração de zonas ao usar a ferramenta.\nPadrão: verdadeiro",
+  "Options.OPTION[AdvancedRoadTools.AdvancedRoadTools.Core.AdvancedRoadToolsMod.Setting.RemoveOccupiedCells]": "Impedir a remoção de células ocupadas",
+  "Options.OPTION_DESCRIPTION[AdvancedRoadTools.AdvancedRoadTools.Core.AdvancedRoadToolsMod.Setting.RemoveOccupiedCells]": "Impede que as células ocupadas sejam substituídas durante a pré-visualização e fase de definição da Ferramenta de Controlo de Zonas.\nAtiva esta opção se estiveres a ter problemas com edifícios a ficarem vagos e/ou abandonados ao usar a ferramenta.\nPadrão: verdadeiro",
+  "Options.OPTION[AdvancedRoadTools.AdvancedRoadTools.Core.AdvancedRoadToolsMod.Setting.InvertZoning]": "Inverter Botão do Rato para Zonas",
+  "Options.OPTION_DESCRIPTION[AdvancedRoadTools.AdvancedRoadTools.Core.AdvancedRoadToolsMod.Setting.InvertZoning]": "Inverte a configuração atual da zona com uma ação do rato.",
+  "Assets.NAME[Zone Controller Tool]": "Ferramenta de Controlo de Zonas",
+  "Assets.DESCRIPTION[Zone Controller Tool]": "Ferramenta para controlar o comportamento da zona ao longo de uma estrada.\nEscolhe entre permitir zonas em ambos os lados, apenas à esquerda ou à direita, ou sem zonas para essa estrada.\nPor padrão, o clique direito inverte a configuração da zona."
+}

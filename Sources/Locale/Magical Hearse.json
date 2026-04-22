@@ -1,0 +1,5 @@
+{
+  "Options.SECTION[MagicalHearse.MagicalHearse.Mod]": "Magical Hearse",
+  "Options.OPTION[MagicalHearse.MagicalHearse.Mod.Setting.EnableMagicalHearse]": "Ativar Magical Hearse",
+  "Options.OPTION_DESCRIPTION[MagicalHearse.MagicalHearse.Mod.Setting.EnableMagicalHearse]": "Ativa Magical Hearse. Os cidadãos falecidos irão desaparecer automaticamente."
+}

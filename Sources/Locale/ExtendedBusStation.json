@@ -1,0 +1,16 @@
+{
+  "Assets.NAME[CarProp]": "Carro decorativo",
+  "Assets.DESCRIPTION[CarProp]": "Um pequeno carro decorativo, sem qualquer funcionalidade",
+
+  "Assets.NAME[ExtendedBus_station]": "Terminal de autocarros ampliado",
+  "Assets.DESCRIPTION[ExtendedBus_station]": "Um terminal de autocarros que pode ser melhorado com uma paragem de táxis, uma estação de carregamento e uma estação de metro.",
+
+  "Assets.NAME[ExtendedBSUpgrade1]": "Extensão de estação de carregamento",
+  "Assets.DESCRIPTION[ExtendedBSUpgrade1]": "Uma estação de carregamento para autocarros elétricos, permitindo-lhes percorrer distâncias maiores.",
+
+  "Assets.NAME[ExtendedBSUpgrade2]": "Extensão de paragem de táxis",
+  "Assets.DESCRIPTION[ExtendedBSUpgrade2]": "Paragens de táxis integradas, proporcionando uma melhor mobilidade aos cidadãos dentro da cidade.",
+
+  "Assets.NAME[ExtendedBSUpgrade3]": "Extensão de estação de metro",
+  "Assets.DESCRIPTION[ExtendedBSUpgrade3]": "Uma estação de metro com duas paragens integradas, permitindo uma maior mobilidade."
+}

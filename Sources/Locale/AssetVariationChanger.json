@@ -1,0 +1,23 @@
+{
+  "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "Asset Variation Changer",
+  "Options.GROUP[AssetVariationChanger.AssetVariationChanger.Mod.Settings]": "Definições",
+  "Options.GROUP[AssetVariationChanger.AssetVariationChanger.Mod.Compatibility]": "Compatibilidade",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "Variação anterior",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "Esta tecla será atribuída para selecionar a variação do recurso anterior",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "Próxima variação",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "Esta tecla será atribuída para selecionar a próxima variação do recurso",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Alternar seletor de variação",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Usa esta tecla para alternar o mod sem precisar de abrir o menu",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Ativar seletor de variação",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Se ativado, o mod funciona. Se desativado, o mod não terá efeito. Isto é útil se quiseres o comportamento aleatório padrão",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "Repor teclas atribuídas",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/PreviousVariationBinding/binding]": "Variação do recurso anterior",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/NextVariationBinding/binding]": "Próxima variação do recurso",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/ToggleVariationChooserBinding/binding]": "Ativar/desativar seletor de variação",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.LineToolCompatibility]": "Compatibilidade com Line Tool",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.LineToolCompatibility]": "Desativa a funcionalidade do Asset Variation Changer enquanto a ferramenta de linhas está a ser usada (recomendado)",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.TreeControllerCompatibility]": "Compatibilidade com Tree Controller",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.TreeControllerCompatibility]": "Desativa a funcionalidade do Asset Variation Changer para a maioria da vegetação quando o Tree Controller é usado (recomendado)"
+
+}

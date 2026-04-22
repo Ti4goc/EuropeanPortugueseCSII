@@ -1,0 +1,10 @@
+{
+  "Assets.NAME[FedEx_TrainCargoCar_Prop]": "Vagão Intermodal de Contentor (FedEx) – Prop",
+  "Assets.NAME[FedEx_TrainCargoCar]": "Vagão Intermodal de Contentor (FedEx)",
+
+  "Assets.NAME[DHL_TrainCargoCar_Prop]": "Vagão Ferroviário de Carga (DHL) – Prop",
+  "Assets.NAME[DHL_TrainCargoCar]": "Vagão Ferroviário de Carga (DHL)",
+
+  "Assets.NAME[LKW Walter_TrainCargoCar_Prop]": "Vagão Ferroviário de Carga (LKW Walter) – Prop",
+  "Assets.NAME[LKW Walter_TrainCargoCar]": "Vagão Intermodal de Contentor (LKW Walter)"
+}

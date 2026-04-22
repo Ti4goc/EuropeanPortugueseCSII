@@ -1,0 +1,128 @@
+{
+  "Options.SECTION[AssetUIManager.AssetUIManager.Mod]": "Asset UI Manager",
+  "Options.TAB[AssetUIManager.AssetUIManager.Mod.Options]": "Opções",
+  "Options.GROUP[AssetUIManager.AssetUIManager.Mod.Save Changes]": "Guardar alterações",
+  "Options.GROUP[AssetUIManager.AssetUIManager.Mod.Options]": "Opções",
+  "Options.TAB[AssetUIManager.AssetUIManager.Mod.About]": "Acerca de",
+  "Options.GROUP[AssetUIManager.AssetUIManager.Mod.Info]": "Informação",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.Button]": "Guardar alterações",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.Button]": "Guarda todas as alterações definidas abaixo.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.PathwayInRoads]": "Separador de passagens no menu Estradas",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.PathwayInRoads]": "Move os separadores de passagens para o menu Estradas em vez de Terraformação.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.PathwayPriorityDropdown]": "Posição do separador de passagens",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.PathwayPriorityDropdown]": "Seleciona a posição do separador de passagens.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.PedestrianInPathway]": "Ruas pedonais no separador de passagens",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.PedestrianInPathway]": "Move todas as ruas pedonais para o separador de passagens.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.BridgesInRoads]": "Separador de pontes no menu Estradas",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.BridgesInRoads]": "Move todas as pontes para um novo separador no menu Estradas.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.QuaysInRoads]": "Separador de cais no menu Estradas",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.QuaysInRoads]": "Move todos os cais para um novo separador no menu Estradas.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.ParkingRoadsInRoads]": "Separador de estradas com estacionamento no menu Estradas",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.ParkingRoadsInRoads]": "Move todas as estradas com estacionamento para um novo separador no menu Estradas.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedHospitals]": "Separadores de hospitais",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedHospitals]": "Move todos os hospitais para novos separadores de acordo com a sua função.\r\n- [BETA] Ícones a atualizar mais tarde.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparateControlAndResearch]": "Separadores de controlo de doenças e investigação em saúde",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparateControlAndResearch]": "Move os centros de controlo de doenças e institutos de investigação em saúde para novos separadores próprios.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedSchools]": "Separadores de educação",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedSchools]": "Move todas as escolas para novos separadores de acordo com o nível de ensino.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedPolice]": "Separadores de polícia/prisões",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedPolice]": "Move todos os edifícios da polícia para novos separadores de acordo com a sua função.\r\n- [BETA] Ícones a atualizar mais tarde.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedPocketParks]": "Separadores de parques de bolso",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedPocketParks]": "Move todos os \"parques de bolso\" para novos separadores no menu Parques e Entretenimento.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedCityParks]": "Separadores de parques urbanos",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.SeparatedCityParks]": "Move todos os \"parques urbanos\" para novos separadores no menu Parques e Entretenimento.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.EnableAssetPacks]": "Pacotes de recursos",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.EnableAssetPacks]": "Adiciona pacotes de recursos para os seguintes tipos:\r\n- Depósito de transportes\r\n- Transporte público\r\n- Transporte de carga\r\n- Faixa de transporte\r\nNecessita recarregar a gravação para desativar.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.VerboseLogging]": "Registo detalhado",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.VerboseLogging]": "Ativa registos detalhados para resolução de problemas.",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.NameText]": "Nome do mod",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.NameText]": "",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.VersionText]": "Versão do mod",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.VersionText]": "",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.AuthorText]": "Autor",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.AuthorText]": "",
+
+  "Options.OPTION[AssetUIManager.AssetUIManager.Mod.Setting.BMaCLink]": "Buy Me a Coffee",
+  "Options.OPTION_DESCRIPTION[AssetUIManager.AssetUIManager.Mod.Setting.BMaCLink]": "Apoiar o autor.",
+
+  "SubServices.NAME[StarQ_UIC RoadsBridges]": "Pontes",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC RoadsBridges]": "Estradas que atravessam desníveis, cruzando rios ou vales de forma contínua.",
+
+  "SubServices.NAME[StarQ_UIC RoadsQuays]": "Cais",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC RoadsQuays]": "Estradas colocadas junto à água ou costa, criando margens elevadas que permitem desenvolvimento ribeirinho e acesso de veículos.",
+
+  "SubServices.NAME[StarQ_UIC RoadsParkingRoads]": "Estradas com estacionamento",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC RoadsParkingRoads]": "Estradas especializadas com lugares de estacionamento integrados.",
+
+  "SubServices.NAME[StarQ_UIC Clinics]": "Centros de saúde",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC Clinics]": "Pequenas unidades de saúde que prestam serviços básicos, tratando doenças ligeiras e lesões para manter os cidadãos saudáveis.",
+
+  "SubServices.NAME[StarQ_UIC Hospitals]": "Hospitais",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC Hospitals]": "Grandes centros médicos equipados para lidar com emergências, cirurgias e tratamentos especializados, garantindo cuidados de saúde completos para a cidade.",
+
+  "SubServices.NAME[StarQ_UIC DiseaseControl]": "Centros de controlo de doenças",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC DiseaseControl]": "Instalações especializadas em monitorizar, prevenir e responder a surtos, protegendo a população de doenças generalizadas.",
+
+  "SubServices.NAME[StarQ_UIC HealthResearch]": "Centros de investigação em saúde",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC HealthResearch]": "Instituições avançadas dedicadas à investigação médica e inovação, desenvolvendo novos tratamentos e melhorando os cuidados de saúde globais.",
+
+  "SubServices.NAME[StarQ_UIC Schools]": "Escolas básicas",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC Schools]": "O primeiro passo na educação de uma criança. As escolas básicas fornecem aprendizagem fundamental e ajudam a construir a base para estudos futuros.",
+
+  "SubServices.NAME[StarQ_UIC HighSchools]": "Escolas secundárias",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC HighSchools]": "As escolas secundárias oferecem um currículo mais avançado, preparando os alunos para estudos superiores ou entrada direta no mercado de trabalho.",
+
+  "SubServices.NAME[StarQ_UIC Colleges]": "Institutos superiores",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC Colleges]": "Os institutos superiores fornecem ensino e formação especializados, equipando os alunos com competências necessárias para várias carreiras e indústrias.",
+
+  "SubServices.NAME[StarQ_UIC Universities]": "Universidades",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC Universities]": "As universidades são o auge da educação, oferecendo uma ampla gama de graus avançados e oportunidades de investigação para formar os futuros profissionais da cidade.",
+
+  "SubServices.NAME[StarQ_UIC LocalPolice]": "Esquadras locais",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC LocalPolice]": "As esquadras locais são a espinha dorsal da polícia, respondendo a crimes, patrulhando bairros e garantindo a segurança pública nas suas zonas.",
+
+  "SubServices.NAME[StarQ_UIC PoliceHQ]": "Sede da polícia",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC PoliceHQ]": "O centro principal das operações policiais, coordenando a prevenção do crime em toda a cidade.",
+
+  "SubServices.NAME[StarQ_UIC Intelligence]": "Serviços de informações",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC Intelligence]": "Agências secretas focadas em recolher informações e prevenir crimes antes que escalem.",
+
+  "SubServices.NAME[StarQ_UIC Prison]": "Prisões",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC Prison]": "Instalações seguras onde os criminosos condenados cumprem as suas penas, garantindo a segurança pública ao manter infratores perigosos fora das ruas.",
+
+  "SubServices.NAME[StarQ_UIC PocketParks]": "Parques de bolso",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC PocketParks]": "Pequenos espaços compactos criados para melhorar a estética do bairro e oferecer recreação mínima.",
+
+  "SubServices.NAME[StarQ_UIC CityParks]": "Parques urbanos",
+  "Assets.SUB_SERVICE_DESCRIPTION[StarQ_UIC CityParks]": "Áreas recreativas que promovem relaxamento, lazer e eventos comunitários.",
+
+  "Assets.NAME[StarQ_AP TransportDepot]": "Depósito de transportes",
+  "Assets.DESCRIPTION[StarQ_AP TransportDepot]": "Depósito de transportes",
+
+  "Assets.NAME[StarQ_AP PublicTransport]": "Paragens de transporte público",
+  "Assets.DESCRIPTION[StarQ_AP PublicTransport]": "Paragens de transporte público",
+
+  "Assets.NAME[StarQ_AP CargoTransport]": "Transporte de carga",
+  "Assets.DESCRIPTION[StarQ_AP CargoTransport]": "Transporte de carga",
+
+  "Assets.NAME[StarQ_AP TransportLane]": "Faixa de transporte",
+  "Assets.DESCRIPTION[StarQ_AP TransportLane]": "Faixa de transporte"
+}

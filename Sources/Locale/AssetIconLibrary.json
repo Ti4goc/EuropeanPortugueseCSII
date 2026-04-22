@@ -1,0 +1,17 @@
+{
+  "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "Asset Icon Library",
+  "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "Principal",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "Definições",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Custom]": "Personalizado",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.RestartRequired]": "⚠️ Alterar estas definições exige reiniciar o jogo para aplicar as alterações.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Sobrescrever ícones existentes",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Quando ativado, o Asset Icon Library irá sobrescrever ícones padrão do jogo e de outros mods, quando disponíveis.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Estilo dos Ícones",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.IconsStyle]": "Alterar o estilo a utilizar para os ícones de recursos, quando aplicável.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.CustomIcons]": "Usar ícones personalizados para recursos colocando os ficheiros de imagem com o nome dos recursos dentro da pasta de miniaturas personalizadas.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Abrir pasta de miniaturas personalizadas",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Permite adicionar miniaturas personalizadas para usar em vez dos ícones padrão do jogo ou do 'Asset Icon Library'.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.ColoredPropless]": "Colorido sem elementos",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.White]": "Branco e sem elementos",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.Colored]": "Colorido com elementos"
+}

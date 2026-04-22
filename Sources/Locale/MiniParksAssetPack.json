@@ -1,0 +1,20 @@
+{
+  "Assets.NAME[CarProp]": "CarProp",
+  "Assets.DESCRIPTION[CarProp]": "Um carro decorativo sem funcionalidade",
+  "Assets.NAME[Park with monument]": "Parque com monumento",
+  "Assets.DESCRIPTION[Park with monument]": "Pequeno parque com uma cabeça gigante",
+  "Assets.NAME[Small park with fountain]": "Pequeno parque com fonte",
+  "Assets.DESCRIPTION[Small park with fountain]": "Espaço de relaxamento",
+  "Assets.NAME[Small park with kiosk]": "Pequeno parque com quiosque",
+  "Assets.DESCRIPTION[Small park with kiosk]": "Lugar tranquilo",
+  "Assets.NAME[Mini playground]": "Mini parque infantil",
+  "Assets.DESCRIPTION[Mini playground]": "Espaço de diversão para as crianças",
+  "Assets.NAME[Grill zone]": "Zona de churrasco",
+  "Assets.DESCRIPTION[Grill zone]": "Espaço onde os cidadãos podem fazer churrascos",
+  "Assets.NAME[Playground with gym]": "Parque infantil com ginásio",
+  "Assets.DESCRIPTION[Playground with gym]": "Espaço de atividades ao ar livre",
+  "Assets.NAME[Trash site]": "Local de lixo",
+  "Assets.DESCRIPTION[Trash site]": "Espaço destinado ao lixo",
+  "Assets.NAME[Playground]": "Parque infantil 2x1",
+  "Assets.DESCRIPTION[Playground]": "Espaço recreativo para as crianças"
+}

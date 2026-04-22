@@ -1,0 +1,6 @@
+{
+  "Assets.DESCRIPTION[ExtendedCargoHarbor]": "Grande porto de mercadorias com 3 ligações ferroviárias. Pode ser melhorado com armazéns.",
+  "Assets.DESCRIPTION[ExtendedCargoharborWarehouses]": "Armazém que permite armazenar mais mercadorias.",
+  "Assets.NAME[ExtendedCargoHarbor]": "Porto de Mercadorias Ampliado",
+  "Assets.NAME[ExtendedCargoharborWarehouses]": "Extensão de Armazém"
+}

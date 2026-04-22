@@ -1,0 +1,19 @@
+{
+  "Assets.NAME[dJP-SchoolProps-GateClosed]": "Portão Japonês — Fechado",
+  "Assets.DESCRIPTION[dJP-SchoolProps-GateClosed]": "Portão de grandes dimensões tipicamente encontrado à entrada de escolas e empresas no Japão. Este está fechado.",
+
+  "Assets.NAME[dJP-SchoolProps-GateOpen]": "Portão Japonês — Aberto",
+  "Assets.DESCRIPTION[dJP-SchoolProps-GateOpen]": "Portão de grandes dimensões tipicamente encontrado à entrada de escolas e empresas no Japão. Este está aberto.",
+
+  "Assets.NAME[dJP-ResProps-BikeShelter4m]": "Abrigo para Bicicletas",
+  "Assets.DESCRIPTION[dJP-ResProps-BikeShelter4m]": "Protege bicicletas ou motociclos das condições meteorológicas.",
+
+  "Assets.NAME[dJP-ResProps-Carport-Shelter-A]": "Abrigo de Garagem com Vidro",
+  "Assets.DESCRIPTION[dJP-ResProps-Carport-Shelter-A]": "Protege o carro da chuva mas não da luz do sol.",
+
+  "Assets.NAME[dJP-ResProps-ShedFull]": "Arrecadação Metálica de Tamanho Completo",
+  "Assets.DESCRIPTION[dJP-ResProps-ShedFull]": "Uma arrecadação japonesa moderna. Muito resistente.",
+
+  "Assets.NAME[dJP-ResProps-ShedHalf]": "Arrecadação Metálica de Tamanho Médio",
+  "Assets.DESCRIPTION[dJP-ResProps-ShedHalf]": "Uma arrecadação japonesa moderna. Muito resistente, mas não tão funda."
+}

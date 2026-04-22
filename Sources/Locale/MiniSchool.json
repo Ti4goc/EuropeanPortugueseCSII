@@ -1,0 +1,8 @@
+{
+  "Assets.NAME[MiniElementarySchool]": "Pequena escola básica",
+  "Assets.DESCRIPTION[MiniElementarySchool]": "Escola pequena para 340 alunos",
+  "Assets.UPGRADE_NAME[ext1]": "Estacionamento da escola",
+  "Assets.UPGRADE_DESCRIPTION[ext1]": "Exclusivo para funcionários",
+  "Assets.UPGRADE_NAME[ext2]": "Quintal",
+  "Assets.UPGRADE_DESCRIPTION[ext2]": "Ao colocar uma melhoria, surge uma passagem através do edifício. Parque infantil, campo desportivo e palco"
+}

@@ -1,0 +1,234 @@
+{
+  "Assets.NAME[BXP Arc Pedestrian Bridge Revised]": "Ponte pedonal em arco — curvável e iluminada",
+  "Assets.DESCRIPTION[BXP Arc Pedestrian Bridge Revised]": "Versão atualizada da ponte pedonal em arco, agora com capacidade para curvar e iluminação integrada para um visual mais apelativo à noite.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[Bridge Asset Pack Filter]": "Pacote de pontes",
+
+  "Assets.NAME[BXP BridgeSafetyBarrier]": "Barreira de segurança para ponte",
+  "Assets.DESCRIPTION[BXP BridgeSafetyBarrier]": "Barreira de betão cinzento.",
+
+  "Assets.NAME[BXP BridgeSpotlight]": "Foco de iluminação para ponte",
+  "Assets.DESCRIPTION[BXP BridgeSpotlight]": "Foco potente de longo alcance, concebido para iluminar grandes estruturas de pontes durante a noite.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP BridgeSpotlightSource]": "Fonte de luz do foco da ponte",
+
+  "Assets.NAME[BXP Cable Stayed Pedestrian Bridge Revised]": "Ponte pedonal atirantada — curvável e iluminada",
+  "Assets.DESCRIPTION[BXP Cable Stayed Pedestrian Bridge Revised]": "Versão atualizada da ponte pedonal atirantada, agora com capacidade para curvar e iluminação integrada para um visual mais apelativo à noite.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Covered Pedestrian Bridge Revised]": "Ponte pedonal coberta — curvável e iluminada",
+  "Assets.DESCRIPTION[BXP Covered Pedestrian Bridge Revised]": "Versão atualizada da ponte pedonal coberta, agora com capacidade para curvar e iluminação integrada para um visual mais apelativo à noite.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Extradosed Bridge - Highway Twoway - 4 Lanes]": "Ponte extradorso de quatro faixas com circulação nos dois sentidos",
+  "Assets.DESCRIPTION[BXP Extradosed Bridge - Highway Twoway - 4 Lanes]": "Cabos de suporte ligam as torres curtas à superestrutura da ponte. Inclui iluminação personalizada nos pilares para um melhor visual noturno. Pode curvar.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Extradosed Bridge - Highway Twoway - 6 Lanes]": "Ponte extradorso de seis faixas com circulação nos dois sentidos",
+  "Assets.DESCRIPTION[BXP Extradosed Bridge - Highway Twoway - 6 Lanes]": "Cabos de suporte ligam as torres curtas à superestrutura da ponte. Inclui iluminação personalizada nos pilares para um melhor visual noturno. Pode curvar.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Extradosed Bridge - Medium Road Divided - 4 Lanes]": "Ponte extradorso de quatro faixas com separador central",
+  "Assets.DESCRIPTION[BXP Extradosed Bridge - Medium Road Divided - 4 Lanes]": "Cabos de suporte ligam as torres curtas à superestrutura da ponte. Pode curvar.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Extradosed Bridge - Subway - 2 Tracks]": "Ponte extradorso com duas vias de metro",
+  "Assets.DESCRIPTION[BXP Extradosed Bridge - Subway - 2 Tracks]": "Uma linha de metro em cada direção. Cabos de suporte ligam as torres curtas à superestrutura da ponte. Inclui iluminação personalizada nos pilares para um melhor visual noturno. Pode curvar.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Extradosed Bridge - Train - 2 Tracks]": "Ponte extradorso com duas vias férreas",
+  "Assets.DESCRIPTION[BXP Extradosed Bridge - Train - 2 Tracks]": "Uma linha férrea eletrificada em cada direção. Cabos de suporte ligam as torres curtas à superestrutura da ponte. Inclui iluminação personalizada nos pilares para um melhor visual noturno. Pode curvar.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP ExtradosedBridge01 - Public Transport]": "Ponte extradorso de dois pisos — rodovia e transporte público",
+  "Assets.DESCRIPTION[BXP ExtradosedBridge01 - Public Transport]": "Estrada de transporte público bidirecional no piso inferior, que pode ser atualizada com linhas de elétrico.\r\nA ponte de dois pisos possui uma rodovia no nível superior e uma via de transporte público no inferior. Cabos de suporte ligam as torres curtas à superestrutura. Pode curvar.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP ExtradosedBridge01 - Public Transport Road]": "Ponte extradorso — via exclusiva de transporte público",
+  "Assets.DESCRIPTION[BXP ExtradosedBridge01 - Public Transport Road]": "Via personalizada de transporte público usada na ponte extradorso de dois pisos. Não precisa de ser colocada individualmente e não deve aparecer no menu do jogo. Se estiver visível, é porque outro mod a tornou visível — finge que não viste.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP ExtradosedBridge01 - Subway]": "Ponte extradorso de dois pisos — rodovia sobre metro",
+  "Assets.DESCRIPTION[BXP ExtradosedBridge01 - Subway]": "Duas vias de metro no piso inferior.\r\nA ponte de dois pisos possui uma rodovia no nível superior e um metro duplo abaixo. Cabos de suporte ligam as torres curtas à superestrutura. Pode curvar.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP ExtradosedBridge01 - Subway Track]": "Ponte extradorso — via de metro",
+  "Assets.DESCRIPTION[BXP ExtradosedBridge01 - Subway Track]": "Vias personalizadas usadas na ponte extradorso de dois pisos. Não precisam de ser colocadas individualmente e não devem aparecer no menu do jogo. Se estiverem visíveis, outro mod está a interferir — ignora.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP ExtradosedBridge01 - Tram]": "Ponte extradorso de dois pisos — rodovia sobre elétrico",
+  "Assets.DESCRIPTION[BXP ExtradosedBridge01 - Tram]": "Duas linhas de elétrico no piso inferior.\r\nA ponte de dois pisos possui uma rodovia no nível superior e uma via dupla de elétrico no inferior. Cabos de suporte ligam as torres curtas à superestrutura. Pode curvar.\r\nDo pacote Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP ExtradosedBridge01 - Tram Track]": "Ponte extradorso — vias de elétrico",
+  "Assets.DESCRIPTION[BXP ExtradosedBridge01 - Tram Track]": "Vias personalizadas de elétrico usadas na ponte extradorso de dois pisos. Não precisam de ser colocadas individualmente e não devem aparecer no menu do jogo. Se estiverem visíveis, outro mod está a interferir — ignora.\r\nDo pacote Bridge Expansion Pack.\r\n",
+  "Assets.NAME[Highway Drive Section 3.5]": "Secção de condução de autoestrada 3.5",
+
+  "Assets.NAME[BXP Highway Drive Section 3.5 - Transport Option]": "Secção de condução de autoestrada 3.5 — transporte",
+
+  "Assets.NAME[BXP Highway Median 0 - Barrier]": "Separador de autoestrada 0 — barreira",
+
+  "Assets.NAME[Highway Median 3 - Blank]": "Separador de autoestrada 3 — simples",
+
+  "Assets.NAME[BXP Highway Twoway - 6 lanes]": "Autoestrada de seis faixas com circulação nos dois sentidos",
+  "Assets.DESCRIPTION[BXP Highway Twoway - 6 lanes]": "Autoestrada de seis faixas com circulação nos dois sentidos. Pode ser melhorada com linhas de elétrico no centro.\r\nIncluída no Bridge Expansion Pack para facilitar a ligação às pontes suspensas de seis faixas.\r\n",
+
+  "Assets.NAME[BXP LightpolePark02-Gray]": "Candeeiro cinzento estilo art déco para viaduto",
+  "Assets.DESCRIPTION[BXP LightpolePark02-Gray]": "Candeeiro personalizado de estilo globo cinzento, combinando com a cor e o design do viaduto art déco.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP LightpolePark04-Green]": "Candeeiro verde do Grand Bridge",
+  "Assets.DESCRIPTION[BXP LightpolePark04-Green]": "Candeeiro personalizado em estilo lanterna verde, combinando com a cor e o design do Grand Bridge.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Pavement Path Illuminated]": "Caminho pedonal pavimentado — iluminado",
+  "Assets.DESCRIPTION[BXP Pavement Path Illuminated]": "Versão atualizada do caminho pedonal pavimentado, com iluminação no estilo das pontes pedonais em arco e atirantadas.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP PedestrianGroundLight]": "Luz de chão para caminhos pedonais",
+  "Assets.DESCRIPTION[BXP PedestrianGroundLight]": "Luz personalizada para iluminar passagens pedonais, emitindo um brilho suave direcionado para baixo ao nível dos tornozelos.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Quad Train Track]": "Via férrea quádrupla",
+  "Assets.DESCRIPTION[BXP Quad Train Track]": "Duas linhas eletrificadas em cada direção. Catenárias centrais garantem eletrificação total. Combina com o estilo das pontes ferroviárias de quatro vias.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Quad Train Track - High Speed]": "Via férrea quádrupla — alta velocidade",
+  "Assets.DESCRIPTION[BXP Quad Train Track - High Speed]": "Versão de alta velocidade da via férrea quádrupla.\r\nDuas linhas eletrificadas em cada direção, com catenárias centrais. Combina com o estilo das pontes ferroviárias de quatro vias.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Quad Train Track - Alternating]": "Via férrea quádrupla — alternada",
+  "Assets.DESCRIPTION[BXP Quad Train Track - Alternating]": "Quatro linhas ferroviárias alternadas (descida-suba-descida-suba), essencialmente dois pares de vias duplas lado a lado. Catenárias centrais garantem eletrificação total.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP RoofLight01-PedBridge]": "Luz suspensa para passagens pedonais cobertas",
+  "Assets.DESCRIPTION[BXP RoofLight01-PedBridge]": "Luz suspensa personalizada para iluminar passagens pedonais cobertas elevadas, emitindo um brilho suave e difuso.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[Subway Median 2]": "Separador de metro 2",
+
+  "Assets.NAME[BXP Suspension Bridge - Highway Oneway - 6 Lanes]": "Ponte suspensa de seis faixas unidirecional",
+  "Assets.DESCRIPTION[BXP Suspension Bridge - Highway Oneway - 6 Lanes]": "Cabos de suspensão principais ligam as torres de suporte, com cabos verticais a sustentar o tabuleiro da ponte. Inclui iluminação personalizada nos pilares para uma melhor aparência noturna. Pode abranger vãos maiores do que as pontes suspensas do jogo base e é curvável.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Suspension Bridge - Highway Twoway - 4 Lanes]": "Ponte suspensa de quatro faixas bidirecional",
+  "Assets.DESCRIPTION[BXP Suspension Bridge - Highway Twoway - 4 Lanes]": "Cabos de suspensão principais ligam as torres de suporte, com cabos verticais a sustentar o tabuleiro. Pode ser melhorada com faixas dedicadas a elétricos no centro. Inclui iluminação personalizada e permite curvatura.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Suspension Bridge - Highway Twoway - 6 Lanes]": "Ponte suspensa de seis faixas bidirecional",
+  "Assets.DESCRIPTION[BXP Suspension Bridge - Highway Twoway - 6 Lanes]": "Cabos de suspensão principais ligam as torres de suporte, com cabos verticais a sustentar o tabuleiro. Pode incluir faixas de elétrico no centro. Iluminação personalizada e capacidade para curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Suspension Bridge - Train - 2 Tracks]": "Ponte suspensa com duas vias férreas",
+  "Assets.DESCRIPTION[BXP Suspension Bridge - Train - 2 Tracks]": "Uma linha eletrificada em cada direção. Cabos principais e verticais sustentam o tabuleiro. Inclui iluminação personalizada e capacidade para curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Suspension Bridge - Train - 4 Tracks]": "Ponte suspensa com quatro vias férreas",
+  "Assets.DESCRIPTION[BXP Suspension Bridge - Train - 4 Tracks]": "Duas linhas eletrificadas em cada direção. Cabos principais e verticais sustentam o tabuleiro. Inclui iluminação personalizada e capacidade para curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Tied Arch Bridge - Highway Oneway - 4 Lanes]": "Ponte arco atirantado unidirecional de quatro faixas",
+  "Assets.DESCRIPTION[BXP Tied Arch Bridge - Highway Oneway - 4 Lanes]": "Um arco preso por tirantes sustenta o tabuleiro da ponte através de cabos verticais. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Tied Arch Bridge - Highway Twoway - 4 Lanes]": "Ponte arco atirantado bidirecional de quatro faixas",
+  "Assets.DESCRIPTION[BXP Tied Arch Bridge - Highway Twoway - 4 Lanes]": "Um arco preso por tirantes sustenta o tabuleiro da ponte através de cabos verticais. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Tied Arch Bridge - Train - 4 Tracks]": "Ponte arco atirantado com quatro vias férreas",
+  "Assets.DESCRIPTION[BXP Tied Arch Bridge - Train - 4 Tracks]": "Duas linhas eletrificadas em cada direção. Um arco atirantado acima do tabuleiro sustenta a ponte. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Tied Arch Bridge - Train - 4 Tracks Alternating]": "Ponte arco atirantado com quatro vias férreas — alternadas",
+  "Assets.DESCRIPTION[BXP Tied Arch Bridge - Train - 4 Tracks Alternating]": "Quatro linhas ferroviárias alternadas (descida-suba-descida-suba). Um arco atirantado sustenta o tabuleiro com cabos verticais. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[Train Median 2]": "Separador ferroviário 2",
+
+  "Assets.NAME[BXP Tram Shoulder 2]": "Ombro de elétrico 2",
+
+  "Assets.NAME[BXP Truss Arch Bridge - Highway Oneway - 2 Lanes]": "Ponte em arco com treliça unidirecional de duas faixas",
+  "Assets.DESCRIPTION[BXP Truss Arch Bridge - Highway Oneway - 2 Lanes]": "Um arco sob o tabuleiro suporta treliças metálicas que, por sua vez, sustentam a ponte. Iluminação discreta nos pilares. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Truss Arch Bridge - Highway Oneway - 3 Lanes]": "Ponte em arco com treliça unidirecional de três faixas",
+  "Assets.DESCRIPTION[BXP Truss Arch Bridge - Highway Oneway - 3 Lanes]": "Um arco sob o tabuleiro suporta treliças metálicas que sustentam a estrutura. Iluminação discreta nos pilares. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Truss Arch Bridge - Large Road - 6 Lanes]": "Ponte em arco com treliça de seis faixas",
+  "Assets.DESCRIPTION[BXP Truss Arch Bridge - Large Road - 6 Lanes]": "Arco estrutural sob o tabuleiro com treliças de suporte. Iluminação discreta e curvatura permitida.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Truss Arch Bridge - Medium Road - 4 Lanes]": "Ponte em arco com treliça de quatro faixas",
+  "Assets.DESCRIPTION[BXP Truss Arch Bridge - Medium Road - 4 Lanes]": "Arco sob o tabuleiro com treliças metálicas que sustentam a estrutura. Iluminação discreta. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Truss Arch Bridge - Subway]": "Ponte em arco com treliça e duas vias de metro",
+  "Assets.DESCRIPTION[BXP Truss Arch Bridge - Subway]": "Uma linha de metro em cada direção. Um arco sob o tabuleiro suporta as treliças que sustentam a ponte. Iluminação discreta nos pilares. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Truss Arch Bridge - Tram]": "Ponte em arco com treliça e duas vias de elétrico",
+  "Assets.DESCRIPTION[BXP Truss Arch Bridge - Tram]": "Um arco sob o tabuleiro suporta as treliças que sustentam a ponte. Iluminação discreta nos pilares. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP TrussArchBridge01 - Highway Twoway - 2 Lanes]": "Ponte contínua em arco com treliça de duas faixas bidirecional",
+  "Assets.DESCRIPTION[BXP TrussArchBridge01 - Highway Twoway - 2 Lanes]": "O arco contínuo em aço ergue-se acima do tabuleiro e cabos verticais sustentam o vão central da ponte. Inclui iluminação personalizada nos pilares para uma melhor aparência noturna.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP TrussArchBridge01 - Highway Twoway - 6 Lanes]": "Ponte contínua em arco com treliça de seis faixas bidirecional",
+  "Assets.DESCRIPTION[BXP TrussArchBridge01 - Highway Twoway - 6 Lanes]": "O arco contínuo em aço ergue-se acima do tabuleiro e cabos verticais sustentam o vão central. As faixas são ligeiramente mais estreitas para maximizar a capacidade. Inclui iluminação personalizada para um visual noturno melhorado.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP TrussArchBridge01 - Subway]": "Ponte contínua em arco com treliça e duas vias de metro",
+  "Assets.DESCRIPTION[BXP TrussArchBridge01 - Subway]": "Uma linha de metro em cada direção. O arco contínuo em aço ergue-se acima do tabuleiro e cabos verticais sustentam o vão central. Inclui iluminação personalizada nos pilares.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP TrussArchBridge01 - Tram]": "Ponte contínua em arco com treliça e duas vias de elétrico",
+  "Assets.DESCRIPTION[BXP TrussArchBridge01 - Tram]": "O arco contínuo em aço ergue-se acima do tabuleiro e cabos verticais sustentam o vão central. Inclui iluminação personalizada nos pilares.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP WallLight03-Gray]": "Candeeiro de parede cinzento em braço curvo",
+  "Assets.DESCRIPTION[BXP WallLight03-Gray]": "Candeeiro de parede personalizado em estilo braço curvo, usado pontualmente no Grand Bridge.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP WallLight04-Green]": "Candeeiro de parede verde do Grand Bridge",
+  "Assets.DESCRIPTION[BXP WallLight04-Green]": "Candeeiro de parede em estilo lanterna verde, combinando com o design e cor do Grand Bridge.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP WarningLight01-Red]": "Luz vermelha de aviso aéreo",
+  "Assets.DESCRIPTION[BXP WarningLight01-Red]": "Luz de aviso personalizada, extremamente brilhante, usada no topo de pontes e estruturas altas.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP WarningLightSource01-Brighter]": "Fonte de luz de aviso aéreo",
+
+  "Assets.NAME[BXP Art Deco Pylon]": "Pilar art déco",
+
+  "Assets.NAME[BXP Art Deco Viaduct - 6 Lanes]": "Viaduto art déco de seis faixas",
+  "Assets.DESCRIPTION[BXP Art Deco Viaduct - 6 Lanes]": "Pilares em estilo art déco sustentam o tabuleiro da ponte. Pode ser melhorado com faixas de elétrico e inclui iluminação decorativa nos pilares e ao longo do tabuleiro. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Art Deco Viaduct - Train - 4 Tracks]": "Viaduto art déco com quatro vias férreas",
+  "Assets.DESCRIPTION[BXP Art Deco Viaduct - Train - 4 Tracks]": "Duas linhas eletrificadas em cada direção. Pilares art déco sustentam o tabuleiro, com iluminação personalizada nos pilares para melhor visibilidade noturna. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Double Deck Suspension Bridge - Highway]": "Ponte suspensa de dois pisos — autoestrada unidirecional em cada piso",
+  "Assets.DESCRIPTION[BXP Double Deck Suspension Bridge - Highway]": "Cinco faixas unidirecionais em cada piso.\r\nNão deve ser atualizada, pois isso pode causar falhas no jogo. Já inclui a melhoria de iluminação. Não pode ser adaptada a transporte público.\r\nInclui iluminação personalizada nos pilares e suporta vãos maiores que as pontes suspensas do jogo base.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Double Deck Suspension Bridge - Subway]": "Ponte suspensa de dois pisos — autoestrada sobre metro",
+  "Assets.DESCRIPTION[BXP Double Deck Suspension Bridge - Subway]": "Autoestrada de seis faixas bidirecional no piso superior e duas vias de metro no piso inferior. O tabuleiro superior pode ser atualizado com faixas dedicadas a elétricos. Inclui iluminação personalizada e suporta vãos longos.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Double Deck Suspension Bridge - Train]": "Ponte suspensa de dois pisos — autoestrada sobre comboio",
+  "Assets.DESCRIPTION[BXP Double Deck Suspension Bridge - Train]": "Autoestrada de seis faixas bidirecional no piso superior e duas vias férreas no piso inferior. O piso superior pode ser atualizado com faixas de elétrico. Inclui iluminação personalizada e suporta vãos maiores.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Golden Gate Bridge Subway]": "Ponte Golden Gate — dois pisos com vias de metro",
+  "Assets.DESCRIPTION[BXP Golden Gate Bridge Subway]": "Duas vias de metro no piso inferior.\r\nEsta versão da Golden Gate Bridge adiciona vias de metro ao piso inferior, cumprindo os planos originais do sistema BART dos anos 60, que nunca se concretizaram. Inclui iluminação personalizada nas ruas e nos pilares para uma aparência noturna mais autêntica.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Golden Gate Bridge Train]": "Ponte Golden Gate — dois pisos com vias férreas",
+  "Assets.DESCRIPTION[BXP Golden Gate Bridge Train]": "Duas vias férreas no piso inferior.\r\nVersão modificada da Golden Gate Bridge com vias ferroviárias de baixa altura — cuidado com a cabeça! Inclui iluminação personalizada nas ruas e nos pilares.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP GoldenGateBridgeSpotlight]": "Foco de iluminação para pilares da Golden Gate",
+  "Assets.DESCRIPTION[BXP GoldenGateBridgeSpotlight]": "Foco personalizado em tom laranja-avermelhado, concebido para iluminar os pilares da Golden Gate Bridge, combinando com a cor e estilo da ponte.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP GoldenGateBridgeStreetlight]": "Candeeiro da Golden Gate Bridge",
+  "Assets.DESCRIPTION[BXP GoldenGateBridgeStreetlight]": "Candeeiro personalizado em tom laranja-avermelhado, baseado no design real da ponte Golden Gate. Inclui iluminação ajustada ao estilo da ponte.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Grand Bridge - Center Tram]": "Grand Bridge com faixas centrais dedicadas a elétricos",
+  "Assets.DESCRIPTION[BXP Grand Bridge - Center Tram]": "Versão da Grand Bridge com faixas centrais reservadas a elétricos. Os passeios incluem iluminação decorativa em harmonia com a dos pilares e pilones.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Grand Bridge Viaduct]": "Viaduto do Grand Bridge",
+  "Assets.DESCRIPTION[BXP Grand Bridge Viaduct]": "Extensão do Grand Bridge que utiliza os mesmos pilones. Os passeios incluem iluminação decorativa que combina com o estilo do resto da ponte. Pode curvar.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Truss Viaduct - Highway Oneway - 3 lanes]": "Viaduto com treliça unidirecional de três faixas",
+  "Assets.DESCRIPTION[BXP Truss Viaduct - Highway Oneway - 3 lanes]": "Requer o mod Anarchy para colocação.\r\nViaduto com o mesmo estilo das pontes contínuas em treliça, mas numa escala menor. As faixas são ligeiramente mais estreitas para maximizar o fluxo de tráfego. Pode ser usado como ponte ou simplesmente como rede elevada.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Truss Viaduct - Highway Twoway - 2 lanes]": "Viaduto com treliça bidirecional de duas faixas",
+  "Assets.DESCRIPTION[BXP Truss Viaduct - Highway Twoway - 2 lanes]": "Requer o mod Anarchy para colocação.\r\nViaduto com o mesmo estilo das pontes contínuas em treliça, mas numa escala menor. Pode ser usado como ponte ou estrutura elevada decorativa.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Truss Viaduct - Subway]": "Viaduto com treliça e duas vias de metro",
+  "Assets.DESCRIPTION[BXP Truss Viaduct - Subway]": "Requer o mod Anarchy para colocação.\r\nViaduto de metro com o mesmo design das pontes contínuas em treliça, numa forma mais compacta. Pode ser usado como ponte ou estrutura elevada.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP Truss Viaduct - Train]": "Viaduto com treliça e duas vias férreas",
+  "Assets.DESCRIPTION[BXP Truss Viaduct - Train]": "Requer o mod Anarchy para colocação.\r\nViaduto ferroviário inspirado nas pontes contínuas em treliça, numa escala reduzida. Pode ser usado como ponte ou estrutura elevada decorativa.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[BXP TrussViaductPiece]": "Peça estrutural do viaduto em treliça",
+  "Assets.DESCRIPTION[BXP TrussViaductPiece]": "Peça de suporte utilizada nas estruturas dos viadutos em treliça.\r\nDo Bridge Expansion Pack.\r\n",
+
+  "Assets.NAME[StarQ AdministrationVehicle01AsPersonal]": "SUV de tamanho completo",
+
+  "Assets.NAME[StarQ Bus03AsPublicTransport]": "Autocarro de luxo",
+
+  "Assets.NAME[StarQ Car08AsDeliveryTruck]": "Carrinha de entregas",
+
+  "Assets.NAME[StarQ Car09AsTaxi]": "Táxi SUV",
+
+  "Assets.NAME[StarQ EU_DeliveryVan01ForNATheme]": "Carrinha de entregas europeia (tema NA)",
+
+  "Assets.NAME[StarQ MotorbikeDelivery01AsPersonal]": "Mota desportiva",
+
+  "Assets.NAME[StarQ PrisonVan01AsDeliveryTruck]": "Camioneta de entregas pequena",
+
+  "Assets.NAME[StarQ Van01AsDeliveryTruck]": "Carrinha de entregas",
+
+  "Assets.NAME[StarQ Single Family Residentials]": "Zonas residenciais unifamiliares",
+  "Assets.DESCRIPTION[StarQ Single Family Residentials]": "Zona combinada que inclui todos os edifícios de baixa densidade residencial e de baixa densidade junto à orla, tanto para o tema europeu como para o norte-americano."
+}
+
+
+
+

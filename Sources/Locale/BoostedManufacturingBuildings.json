@@ -1,0 +1,14 @@
+{
+  "Assets.NAME[Timber Factory]": "Fábrica de madeira",
+  "Assets.DESCRIPTION[Timber Factory]": "Esta é uma fábrica que produz só madeira. Primeiro, precisas de áreas florestais para começar a produção",
+  "Assets.NAME[Forestry Boosted Factories]": "Área florestal para fábricas melhoradas",
+  "Assets.DESCRIPTION[Forestry Boosted Factories]": "Área florestal melhorada que recolhe mais madeira.",
+  "Assets.NAME[Furniture Factory]": "Fábrica de móveis",
+  "Assets.DESCRIPTION[Furniture Factory]": "Esta é uma fábrica que produz só móveis. Primeiro, precisas de madeira para começar a produção",
+  "Assets.NAME[Cargo Train Station for Forestry Manufacturing]": "Estação de carga ferroviária para produção florestal",
+  "Assets.DESCRIPTION[Cargo Train Station for Forestry Manufacturing]": "Esta estação de carga ferroviária transporta apenas madeira, madeira processada, papel e móveis",
+  "Assets.NAME[Cargo Train Station for Ore Manufacturing]": "Estação de carga ferroviária para produção de minério",
+  "Assets.DESCRIPTION[Cargo Train Station for Ore Manufacturing]": "Esta estação de carga ferroviária transporta apenas aço, metal, minério e betão",
+  "Assets.NAME[Paper Factory]": "Fábrica de papel",
+  "Assets.DESCRIPTION[Paper Factory]": "Esta é uma fábrica que produz só papel. Primeiro, precisas de madeira para começar a produção"
+}

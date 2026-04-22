@@ -1,0 +1,13 @@
+{
+  "Assets.NAME[ExtendedCargoTrainTerminal]": "Terminal de Comboios de Mercadorias Ampliado",
+  "Assets.DESCRIPTION[ExtendedCargoTrainTerminal]": "Grande terminal de comboios de mercadorias que permite carregamento rodoviário. Pode ser melhorado com um pátio ferroviário, uma zona de carga, assim como armazéns.",
+
+  "Assets.UPGRADE_NAME[ExtendedCTTWarehouse]": "Armazém",
+  "Assets.UPGRADE_DESCRIPTION[ExtendedCTTWarehouse]": "Armazém que permite armazenar mais mercadorias.",
+
+  "Assets.UPGRADE_NAME[ECTTLoading]": "Zona de Carga",
+  "Assets.UPGRADE_DESCRIPTION[ECTTLoading]": "Uma segunda zona de carga capaz de lidar com maiores volumes de tráfego.",
+
+  "Assets.UPGRADE_NAME[YardExtension]": "Pátio Ferroviário",
+  "Assets.UPGRADE_DESCRIPTION[YardExtension]": "Um pátio ferroviário integrado que permite ao terminal gerir os seus próprios comboios."
+}

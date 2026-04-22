@@ -1,0 +1,8 @@
+{
+  "Options.SECTION[MapTextureReplacer.MapTextureReplacer.Mod]": "Map Texture Replacer",
+  "Options.OPTION[MapTextureReplacer.MapTextureReplacer.Mod.MapTextureReplacerOptions.ModVersion]": "Versão do mod",
+  "Options.OPTION_DESCRIPTION[MapTextureReplacer.MapTextureReplacer.Mod.MapTextureReplacerOptions.ModVersion]": "Versão instalada do mod",
+  "Options.OPTION[MapTextureReplacer.MapTextureReplacer.Mod.MapTextureReplacerOptions.ResetModSettings]": "Repor todas as definições",
+  "Options.OPTION_DESCRIPTION[MapTextureReplacer.MapTextureReplacer.Mod.MapTextureReplacerOptions.ResetModSettings]": "Repor as definições do mod para os valores padrão",
+  "Options.WARNING[MapTextureReplacer.MapTextureReplacer.Mod.MapTextureReplacerOptions.ResetModSettings]": "Tens a certeza de que queres repor todas as definições do mod?"
+}

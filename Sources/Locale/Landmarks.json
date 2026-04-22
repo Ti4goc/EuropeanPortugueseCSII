@@ -1,0 +1,73 @@
+{
+  "Assets.NAME[Burj Khalifa]": "Burj Khalifa",
+  "Assets.DESCRIPTION[Burj Khalifa]": "O Burj Khalifa é o edifício mais alto do mundo, com 828 metros. O icónico arranha-céus em espiral de Dubai alberga hotéis de luxo, residências e o famoso miradouro. Um marco que eleva qualquer skyline moderno!",
+
+  "Assets.NAME[埃菲尔铁塔]": "Torre Eiffel",
+  "Assets.DESCRIPTION[埃菲尔铁塔]": "A Torre Eiffel, o famoso «palito de aço gigante» de Paris. Uma estrutura temporária que foi ferozmente atacada pelos artistas da cidade como uma «monstruosidade feia», mas que protagonizou uma reviravolta espetacular e se tornou um dos marcos mais icónicos do mundo. Ocupa um dos melhores terrenos da cidade, impróprio para habitação ou escritórios. Serve apenas para ter os cidadãos a tirar fotografias, drenar o dinheiro dos turistas e elevar o prestígio da cidade. Na tua cidade, é simplesmente o pináculo da vaidade urbana — deslumbrante, dispendiosa, completamente inútil, e ainda assim a tua metrópole ao estilo parisiense nunca terá alma sem ela.",
+
+  "Assets.NAME[The White House]": "Casa Branca",
+  "Assets.DESCRIPTION[The White House]": "A Casa Branca é a residência oficial e local de trabalho do Presidente dos Estados Unidos. Localiza-se na Avenida Pennsylvania, 1600 NW, em Washington D.C., e tem sido a residência de todos os presidentes norte-americanos desde John Adams, em 1800, quando a capital nacional foi transferida da Filadélfia para Washington D.C.",
+
+  "Assets.NAME[washington_prop]": "Monumento a Washington",
+  "Assets.DESCRIPTION[washington_prop]": "O Monumento a Washington é um pilar da memória nacional. A sua forma de obelisco, simples mas eterno, simboliza o espírito duradouro da independência. Este monumento de mármore branco puro, com 169 metros de altura, ergue-se no eixo central do National Mall. No interior, uma sala comemorativa e um miradouro no topo estão abertos ao público para reflexão e homenagem.",
+
+  "Assets.NAME[Bank of America Plaza]": "Bank of America Plaza",
+  "Assets.DESCRIPTION[Bank of America Plaza]": "O Bank of America Plaza é um arranha-céus super-alto de 55 andares em Atlanta, Geórgia, EUA.",
+
+  "Assets.NAME[Inconfidencia Museum]": "Museu da Inconfidência",
+  "Assets.DESCRIPTION[Inconfidencia Museum]": "Museu da história da independência — Ouro Preto, Brasil.",
+
+  "Assets.NAME[United States Capitol]": "Capitólio dos Estados Unidos",
+  "Assets.DESCRIPTION[United States Capitol]": "O Capitólio dos Estados Unidos, muitas vezes designado simplesmente por «O Capitólio», é a sede do Congresso dos Estados Unidos, o ramo legislativo do governo federal.",
+
+  "Assets.NAME[Anfield Stadium V2]": "Estádio Anfield",
+  "Assets.DESCRIPTION[Anfield Stadium V2]": "O Estádio Anfield, situado em Liverpool, Inglaterra, é o icónico recinto do Liverpool Football Club, um dos gigantes da Premier League. Construído originalmente em 1884, o estádio tem uma história ilustre, tendo começado como casa do Everton antes de se tornar o berço do Liverpool FC em 1892. Com uma capacidade atual de aproximadamente 54 074 lugares, é reconhecido pela sua atmosfera eletrizante, particularmente a famosa **bancada Kop**, e pelo ritual pré-jogo dos adeptos a entoar apaixonadamente o hino do clube, «You'll Never Walk Alone». Como palco de seis dos triunfos do Liverpool na UEFA Champions League e de numerosos títulos nacionais, Anfield é um dos recintos de futebol mais célebres e históricos do mundo.",
+
+  "Assets.NAME[TheSapphire]": "The Sapphire",
+  "Assets.DESCRIPTION[TheSapphire]": "Estilo arquitetónico: minimalismo.",
+
+  "Assets.NAME[Senedd Cymru]": "Senedd Cymru",
+
+  "Assets.NAME[Senedd Swivel Chair]": "Cadeira giratória do Senedd Cymru",
+  "Assets.DESCRIPTION[Senedd Swivel Chair]": "Adereço para o Senedd Cymru.",
+
+  "Assets.NAME[Senedd Round Table]": "Mesa redonda do Senedd Cymru",
+  "Assets.DESCRIPTION[Senedd Round Table]": "Adereço para o Senedd Cymru.",
+
+  "Assets.NAME[Senedd Computer]": "Computador do Senedd Cymru",
+  "Assets.DESCRIPTION[Senedd Computer]": "Adereço para o Senedd Cymru.",
+
+  "Assets.NAME[Senedd Chaise Longue]": "Chaise longue do Senedd Cymru",
+  "Assets.DESCRIPTION[Senedd Chaise Longue]": "Adereço para o Senedd Cymru.",
+
+  "Assets.NAME[Senedd Desk Chair]": "Cadeira de secretária do Senedd Cymru",
+
+  "Assets.NAME[Senedd Coffee Table]": "Mesa de centro do Senedd Cymru",
+  "Assets.DESCRIPTION[Senedd Coffee Table]": "Adereço para o Senedd Cymru.",
+
+  "Assets.NAME[Senedd Sofa]": "Sofá do Senedd Cymru",
+  "Assets.DESCRIPTION[Senedd Sofa]": "Adereço para o Senedd Cymru.",
+
+  "Assets.NAME[Monona Terrace]": "Monona Terrace",
+  "Assets.DESCRIPTION[Monona Terrace]": "O Monona Terrace (oficialmente Centro Comunitário e de Congressos Monona Terrace) é um centro de congressos à beira do Lago Monona, em Madison, Wisconsin.",
+
+  "Assets.NAME[Wisconsin State Capitol]": "Capitólio do Estado do Wisconsin",
+  "Assets.DESCRIPTION[Wisconsin State Capitol]": "O Capitólio do Estado do Wisconsin, localizado em Madison, alberga as duas câmaras da Assembleia Legislativa, o Supremo Tribunal e o Gabinete do Governador.",
+
+  "Assets.NAME[HotelMondial1]": "Hotel Mondial",
+  "Assets.DESCRIPTION[HotelMondial1]": "Certamente não é o hotel mais luxuoso da cidade, nem o mais romântico nem o maior. Talvez seja precisamente por isso que é uma instituição na cidade há tantos anos. Um serviço atencioso, um generoso pequeno-almoço continental e confortáveis camas king-size representam um conforto atemporal muito apreciado por hóspedes de todo o mundo.",
+
+  "Assets.NAME[RandTower]": "Torre Rand",
+  "Assets.DESCRIPTION[RandTower]": "Este arranha-céus Art Déco classificado oferece, sem dúvida, um ambiente de trabalho elegante. Os motivos de aviação esculpidos na fachada de calcário simbolizam o progresso e o avanço do início do século XX.\n\nO edifício pode ser melhorado com um gabinete de bem-estar social nos andares inferiores.",
+
+  "Assets.NAME[RandTower_Ext01]": "Extensão — gabinete de bem-estar social",
+  "Assets.DESCRIPTION[RandTower_Ext01]": "Adiciona um pequeno gabinete de bem-estar social nos andares inferiores.",
+  "Assets.UPGRADE_NAME[RandTower_Ext01]": "Extensão — gabinete de bem-estar social",
+  "Assets.UPGRADE_DESCRIPTION[RandTower_Ext01]": "Adiciona um pequeno gabinete de bem-estar social nos andares inferiores.",
+
+  "Assets.NAME[Two Seventy Hennepin]": "Torre 270 Hennepin",
+  "Assets.DESCRIPTION[Two Seventy Hennepin]": "A Torre 270 Hennepin é um empreendimento moderno de uso misto que combina comércio no piso térreo com habitação contemporânea nos andares superiores. Com uma mistura de tijolo e vidro, integra-se harmoniosamente em bairros urbanos densos e oferece habitação de alta densidade com comércio ativo no rés-do-chão.",
+
+  "Assets.NAME[ruraltrain]": "Estação de comboio rural",
+  "Assets.DESCRIPTION[ruraltrain]": "Estação histórica de comboio de Tattendorf, Áustria."
+}

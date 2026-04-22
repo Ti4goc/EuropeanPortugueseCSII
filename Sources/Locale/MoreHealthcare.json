@@ -1,0 +1,14 @@
+{
+  "Assets.NAME[W7AmbulanceMaintenanceDepot]": "Depósito de manutenção de ambulâncias",
+  "Assets.DESCRIPTION[W7AmbulanceMaintenanceDepot]": "Estrutura ou área destinada ao armazenamento de ambulâncias e respetivo equipamento médico",
+  "Assets.NAME[W7BloodBank]": "Banco de sangue",
+  "Assets.DESCRIPTION[W7BloodBank]": "Centro onde o sangue recolhido através de doações é armazenado e preservado para utilização em transfusões de sangue.",
+  "Assets.NAME[W7EquinotherapyCenter]": "Centro de equinoterapia",
+  "Assets.DESCRIPTION[W7EquinotherapyCenter]": "Variedade de tratamentos que envolvem atividades com cavalos e outros equinos para promover a saúde física e mental das pessoas.",
+  "Assets.NAME[W7InfectologyCenter]": "Centro de infetologia",
+  "Assets.DESCRIPTION[W7InfectologyCenter]": "Especializa-se no diagnóstico, tratamento e prevenção de doenças causadas por agentes patogénicos como vírus, bactérias, fungos, parasitas e príons",
+  "SubServices.NAME[W7MoreHealthcare]": "More Healthcare",
+  "Assets.SUB_SERVICE_DESCRIPTION[W7MoreHealthcare]": "More Healthcare por Washi776",
+  "Assets.NAME[W7TraumatologyClinic]": "Clínica de traumatologia",
+  "Assets.DESCRIPTION[W7TraumatologyClinic]": "Instalação médica que trata ferimentos e traumas, incluindo os causados por acidentes, violência ou outros eventos angustiantes."
+}

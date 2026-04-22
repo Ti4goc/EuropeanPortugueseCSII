@@ -1,0 +1,14 @@
+{
+  "Options.SECTION[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod]": "Mixed Residential Office Zoning",
+  "Options.TAB[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Main]": "Principal",
+  "Options.GROUP[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Actions]": "Ações",
+  "Options.GROUP[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Info]": "Informações",
+  "Options.OPTION[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Setting.RedoThumbnail]": "Repor cache de miniaturas [powered by Asset Icon Library]",
+  "Options.OPTION_DESCRIPTION[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Setting.RedoThumbnail]": "Este botão irá repor as miniaturas do Asset Icon Library para funcionarem com este mod. Certifica-te de que já tens a subscrição para obteres as miniaturas.",
+  "Options.OPTION[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Setting.NameText]": "Nome do Mod",
+  "Options.OPTION_DESCRIPTION[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Setting.NameText]": "",
+  "Options.OPTION[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Setting.VersionText]": "Versão do Mod",
+  "Options.OPTION_DESCRIPTION[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Setting.VersionText]": "",
+  "Options.OPTION[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Setting.AuthorText]": "Autor",
+  "Options.OPTION_DESCRIPTION[MixedResidentialOfficeZoning.MixedResidentialOfficeZoning.Mod.Setting.AuthorText]": ""
+}

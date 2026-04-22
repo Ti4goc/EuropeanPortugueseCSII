@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[FPS_Limiter.FPS_Limiter.Mod]": "FPS Limiter",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "Menu principal e opções",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "Limite no menu principal e opções ativado",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "No jogo",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGameLimitEnabled]": "Limite no jogo ativado",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Paused]": "Simulação em pausa",
+  "Options.OPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.PausedLimitEnabled]": "Limite com simulação em pausa ativado",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Menu]": "Limite de FPS no menu principal",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.MenuLimitEnabled]": "Pode não funcionar corretamente com VSync ativado",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGame]": "Limite de FPS no jogo quando a simulação está a decorrer",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.InGameLimitEnabled]": "Pode não funcionar corretamente com VSync ativado",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.Paused]": "Limite de FPS no jogo quando a simulação está em pausa",
+  "Options.OPTION_DESCRIPTION[FPS_Limiter.FPS_Limiter.Mod.FPSLimiterSettings.PausedLimitEnabled]": "Pode não funcionar corretamente com VSync ativado"
+}
