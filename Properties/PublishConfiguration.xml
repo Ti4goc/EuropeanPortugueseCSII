@@ -1,0 +1,69 @@
+<Publish>
+  <!-- Id must be set in order to update existed mod. it is not required for publishing mod for the first time -->
+  <ModId Value="92599" />
+  <!-- Name of the mod to display to players -->
+  <DisplayName Value="Portuguese Localization" />
+  <!-- Short description of the mod -->
+  <ShortDescription Value="Portuguese from Portugal translation" />
+  <!-- Long description of the mod. Single line or multi line. Supports minimal markdown subset -->
+  <LongDescription># Portuguese Localization Mod for Cities: Skylines II
+A complete European Portuguese (pt-PT) translation for Cities: Skylines II, adapted with clear terminology and a natural tone for Portuguese players.
+
+## Requirements
+You must install **I18NEverywhere**, which enables this mod to translate other mods alongside the base game.
+
+## Features
+* Full European Portuguese translation without changing the game's visuals or gameplay
+* More than 90 mods translated automatically via I18NEverywhere
+* All DLC region packs fully translated (US Northeast, US Southwest, Netherlands, Eastern Europe, Japan, France, and more)
+* Consistent glossary throughout — from base game to mods
+* Additional translations maintained on Crowdin
+* Frequent updates
+
+## Special Thanks
+Special thanks to N7C, creator of the Thai version of this mod, for all the technical help and support.
+
+## Mods Translated with I18NEverywhere
+Gameplay and simulation: Realistic Workplaces and Households, Public Works+, Change Company, Magic Garbage
+Tools and editors: Better Bulldozer, Node Controller, Anarchy, Road Builder, Asset UI Manager, Automatic Bulldoze and Repair
+Visual and UI: Texture Unifier, Road Visual Tweaks, First Person Camera Continued, Recolor
+Infrastructure: Prefab Asset Fixes, Universal Zoning System
+And many more — full list available on GitHub.
+
+## DLC Support
+All paid region packs and content packs are supported, including Leisure Venues, Mediterranean Heritage, Urban Promenades, Bridges and Ports, and all building and road packs.</LongDescription>
+  <!-- Thumbnail -->
+  <Thumbnail Value="C:\Dev\EuropeanPortugueseLocale\Properties\Thumbnail.png" />
+  <!-- Screenshot, can be set multiple times -->
+  <Screenshot Value="C:\Dev\EuropeanPortugueseLocale\Properties\1.png" />
+  <Screenshot Value="C:\Dev\EuropeanPortugueseLocale\Properties\2.png" />
+  <Screenshot Value="C:\Dev\EuropeanPortugueseLocale\Properties\3.png" />
+  <Screenshot Value="C:\Dev\EuropeanPortugueseLocale\Properties\4.png" />
+  <Screenshot Value="C:\Dev\EuropeanPortugueseLocale\Properties\5.png" />
+  <Screenshot Value="C:\Dev\EuropeanPortugueseLocale\Properties\6.png" />
+  <Screenshot Value="C:\Dev\EuropeanPortugueseLocale\Properties\7.png" />
+  <Screenshot Value="C:\Dev\EuropeanPortugueseLocale\Properties\8.png" />
+  <Screenshot Value="C:\Dev\EuropeanPortugueseLocale\Properties\9.png" />
+  <!-- Tag, can be set multiple times -->
+  <Tag Value="Code Mod" />
+  <Tag Value="European" />
+  <!-- Link to the forum post where the mod can be discussed -->
+  <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/european-portuguese-localization.1693305/" />
+  <!-- Version of the mod -->
+  <ModVersion Value="3.2.1" />
+  <!-- Recommended version of the base game to use the mod -->
+  <GameVersion Value="1.6.*" />
+  <!-- Dependency for the mod, can be set multiple times -->
+  <Dependency Id="75426" DisplayName="I18n EveryWhere" />
+  <!-- Change log for new version. Single line or multi line. Supports minimal markdown subset -->
+  <ChangeLog>- Compatibilidade com a atualização 1.6.0f1: traduzido o novo sistema de pintura de texturas no terreno, a categoria de Cercas (10 modelos base + 22 novos modelos regionais europeus e norte-americanos), descrições das sebes, linhas de contorno globais e a opção de efeitos visuais de neve
+- Novas traduções para vários mods e pacotes de assets recentemente adicionados
+- Ficheiro de mods reorganizado em subpastas por categoria (Ferramentas, Trânsito e Transportes, Edifícios e Assets, Veículos, Decoração e Paisagismo, Mapas) para facilitar a manutenção
+- Correções de capitalização e consistência terminológica em vários ficheiros</ChangeLog>
+  <!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
+  <ExternalLink Type="github" Url="https://github.com/Ti4goc/EuropeanPortugueseCSII" />
+  <ExternalLink Type="discord" Url="https://discord.gg/AkQAHg5B" />
+  <ExternalLink Type="paypal" Url="https://paypal.me/TCorreia972" />
+  <!-- Content folder where the mod files are located -->
+  <ContentFolder Value="$(OutputPath)" />
+</Publish>
